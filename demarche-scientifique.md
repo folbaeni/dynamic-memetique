@@ -42,18 +42,13 @@ Analyser l'integrité de communication online est offilne est impossible et dém
 
 ## Hypothèse principale
 
-> **Les réseaux sociaux permettent une trasmission plus vite et sur grande echelles des mèmes.**
+> **Il y a des mèmes qui ont plus de facilité à survivre et à se diffuser.**
 
-> Les mèmes 'sociaux' ont une plus grande propagation mais une vie très réduite.
-
-> Le forte propagation des mèmes conduit à une globalisation et à une perte des mèmes minoritaires.
+* différents réseaux ont des vitesses de diffusion différentes
+* un mème réussit est forcement diffuse par la diffusion d'un compte important 
+* un mème contenant une choix A ou B a plus tendance à être diffusé
+* en fonction du pays un reseaux est plus visible que les autres
 
 ## Objectif
 
 > **Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.**
-
-### Critères
-* vitesse des différents réseaux
-* un mème réussit est forcement diffuse par la diffusion d'un compte important 
-* un mème contenant une choix A ou B a plus tendance à être diffusé
-* en fonction du pays un reseaux est plus visible que les autres
