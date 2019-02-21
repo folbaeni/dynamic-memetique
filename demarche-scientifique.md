@@ -49,6 +49,7 @@ Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre po
 * un mème réussit est forcement diffuse par la diffusion d'un compte important 
 * un mème contenant une choix A ou B a plus tendance à être diffusé
 * en fonction du pays un reseaux est plus visible que les autres
+* les mèmes monetisès sont diffuses par les reseaux mêmes
 
 ## Objectif
 
