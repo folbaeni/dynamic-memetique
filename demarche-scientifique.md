@@ -1,6 +1,6 @@
 # La diffusion des mèmes parmi les reseaux sociaux
 
-> Quel critère influence la visibilité d'un même?
+> **Quel critère influence la visibilité d'un même?**
 
 ## Recherche bibliographique
 
