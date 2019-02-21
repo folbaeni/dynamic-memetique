@@ -1,6 +1,6 @@
 # La diffusion des mèmes parmi les reseaux sociaux
 
-> De quelle façon l'introduction des reseaux sociaux dans la societé a-t'elle change la diffusion et l'identité des mèmes?
+> Quel critère influence la visibilité d'un même?
 
 ## Recherche bibliographique
 
@@ -52,3 +52,9 @@ Analyser l'integrité de communication online est offilne est impossible et dém
 > Déterminer l'influence des reseaux sociax dans la variation des dernieres années sur le phenomene des mèmes et en analyser les conséquences.
 
 Modeliser la transmission des mèmes avec des données statistiques au départ qui descrivent las communication entre individus dans un environnement.
+
+### Critères
+* vitesse des différents réseaux
+* un mème réussit est forcement diffuse par la diffusion d'un compte important 
+* un mème contenant une choix A ou B a plus tendance à être diffusé
+* en fonction du pays un reseaux est plus visible que les autres
