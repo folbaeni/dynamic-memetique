@@ -1,8 +1,6 @@
 # La diffusion des mèmes parmi les reseaux sociaux
-*thème*
 
 > De quelle façon l'introduction des reseaux sociaux dans la societé a-t'elle change la diffusion et l'identité des mèmes?
-*problèmatique*
 
 ## Recherche bibliographique
 
