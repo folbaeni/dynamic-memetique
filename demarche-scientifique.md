@@ -49,9 +49,7 @@ Analyser l'integrité de communication online est offilne est impossible et dém
 
 ## Objectif
 
-> Déterminer l'influence des reseaux sociax dans la variation des dernieres années sur le phenomene des mèmes et en analyser les conséquences.
-
-Modeliser la transmission des mèmes avec des données statistiques au départ qui descrivent las communication entre individus dans un environnement.
+> **Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.**
 
 ### Critères
 * vitesse des différents réseaux
