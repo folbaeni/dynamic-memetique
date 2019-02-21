@@ -38,7 +38,8 @@ Notre idée s'applique sur une theorie qui n'est pas globalement connue mais qui
 
 ### La faisabilité de notre projet
 
-Analyser l'integrité de communication online est offilne est impossible et démanderait une puissance de calcul inimmaginable, pour cette raison on vise a costruire un modèle fonctionnante et facile à implémenter et on se limite pendant ce cours à l'adapter ad un groupe restraint, comme une école en ajoutant des variables de communication avec l'environnement exterieur.
+Analyser l'integrité de communication online et offilne est impossible et démanderait une puissance de calcul inimmaginable, pour cette raison on vise a costruire un modèle fonctionnante et facile à implémenter et on se limite pendant ce cours à l'adapter ad un groupe restraint, comme une école en ajoutant des variables de communication avec l'environnement exterieur.
+Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre pourquoi certains mèmes ont tendance à se diffuser sur des autres qui tendent à mourir.
 
 ## Hypothèse principale
 
