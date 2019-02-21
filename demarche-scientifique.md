@@ -26,10 +26,11 @@ Les deux projets ont un but statistique, donc ils prennent les donnes des reseau
 
 ### Les mots clès
 * Mème
-* mémétique
-* néodarwinisme
-* gène égoïste
-* théorie évolutionniste étendue
+* Mémétique
+* Néodarwinisme
+* Gène égoïste
+* Théorie évolutionniste étendue
+* Trend
 
 ### La pertience de notre idéé
 
