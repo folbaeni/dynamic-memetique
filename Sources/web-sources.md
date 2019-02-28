@@ -15,3 +15,9 @@
 [Memetic algorithm for community detection in Complex Network : mitigation techniques to the resolution limit, the main weakness of modularity](https://tel.archives-ouvertes.fr/tel-01037937/file/2013LEMA1031.pdf)
 
 [Tentative de définition par un méméticien](https://www.memetique.org/2009/01/memetique-tentative-de-definition-par-un-memeticien)
+
+[Memes Are Becoming Harder to Monetize](https://www.theatlantic.com/technology/archive/2018/05/memes-are-becoming-harder-to-monetize/561578/)
+
+[The Economy of Memes](https://pewaukeeeconomics.blogspot.com/2016/12/the-economy-of-memes.html)
+
+[Y avait-il des mèmes AVANT internet ?](https://lachroniquefacile.fr/2015/05/27/y-avait-il-des-memes-avant-internet/)
