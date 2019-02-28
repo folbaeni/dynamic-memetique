@@ -1,15 +1,8 @@
----
-bibliography:
-- 'memoire.bib'
----
-
 [**Rapport Orientation et Insertion Professionelle**]{}
 
 Mèmes, Mémétique
 
 **Bertini Baldassini Folco et Louzieni Yannis**
-
-![image](serveimage.png){width="7cm"}
 
 Un document rédigé pour le cours de\
 Diana Ruiz Pino
