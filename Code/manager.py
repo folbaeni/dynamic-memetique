@@ -6,7 +6,6 @@ import numpy as np
 #INSERTION PARAMETRES INITIALES
 grandeur_network = 50
 
-
 #FONCTIONS APPELLES
 NETWORK = bn.generation_reseau(grandeur_network)
 bn.edges_newnetwork(NETWORK)
