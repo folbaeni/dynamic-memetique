@@ -8,3 +8,5 @@ def init_meme(network_name):
     x = np.random.randint(1,gens)
     nx.set_node_attributes(network_name, 0, 'meme')
     network_name.nodes[x]['meme'] = 1
+    lm = network_name.edges(x)
+    return(x)

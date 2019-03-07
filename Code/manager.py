@@ -14,7 +14,7 @@ bn.edges_newnetwork(NETWORK)
 
 
 #INTRODUCTION MEME
-meme.init_meme(NETWORK)
+zero = meme.init_meme(NETWORK)
 
 
 
@@ -23,6 +23,8 @@ meme.init_meme(NETWORK)
 elarge=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >=0.7]
 emedium=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >0.3 and d['weight']<0.7]
 esmall=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] <=0.3]
+
+ememe= NETWORK.edges(zero)
 
 pos=nx.spring_layout(NETWORK) # positions for all nodes
 
@@ -49,7 +51,9 @@ nx.draw_networkx_edges(NETWORK,pos,edgelist=elarge,
 nx.draw_networkx_edges(NETWORK,pos,edgelist=emedium,
                     width=1,alpha=0.7,edge_color='r',style='dashed')
 nx.draw_networkx_edges(NETWORK,pos,edgelist=esmall,
-                    width=1,alpha=0.4,edge_color='b',style='dashed')
+                    width=1,alpha=0.4,edge_color='g',style='dashed')
+nx.draw_networkx_edges(NETWORK,pos,edgelist=ememe,
+                    width=4,alpha=0.3,edge_color='b')
 
 # labels
 nx.draw_networkx_labels(NETWORK,pos,font_size=8,font_family='sans-serif')
