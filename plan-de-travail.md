@@ -25,8 +25,12 @@
 ## Modèle de simulation
 - [ ] Variables à avoir
 - [ ] Diffusion d'un mème
-- [ ] Program d'un network 
 - [ ] Intègrer le mème dans le network
+
+### Program d'un network
+- [X] Génération network
+- [ ] Thickness edges
+- [ ] Node attributes
 
 ## Redaction
 - [X] Établir demarche scientifique
