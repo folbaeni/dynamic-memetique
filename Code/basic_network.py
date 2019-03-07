@@ -51,7 +51,8 @@ def edges_newnetwork(network_name):
         x = probabilite_numero_amis(network_name) - numero_amis(network_name,i)
         if x>0:
             for _ in range(x):
-                network_name.add_edge(i,np.random.randint(gens))
+                k= np.random.randint(10)/10
+                network_name.add_edge(i,np.random.randint(gens), weight=k)
     return()
 
 
