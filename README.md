@@ -31,6 +31,7 @@ Les deux projets ont un but statistique, donc ils prennent les donnes des reseau
 * Gène égoïste
 * Théorie évolutionniste étendue
 * Trend
+* Imitation
 
 ### La pertience de notre idéé
 
