@@ -44,7 +44,7 @@ Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre po
 
 ## Hypothèse principale
 
-> **Il y a des mèmes qui ont plus de facilité à survivre et à se diffuser.**
+***Il y a des mèmes qui ont plus de facilité à survivre et à se diffuser.***
 
 * différents réseaux ont des vitesses de diffusion différentes
 * un mème réussit est forcement diffuse par la diffusion d'un compte important 
@@ -53,4 +53,4 @@ Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre po
 
 ## Objectif
 
-> **Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.**
+***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.***
