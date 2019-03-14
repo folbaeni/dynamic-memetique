@@ -23,3 +23,11 @@
 [Y avait-il des mèmes AVANT internet ?](https://lachroniquefacile.fr/2015/05/27/y-avait-il-des-memes-avant-internet/)
 
 [Introduction a la mémétique](https://hal.archives-ouvertes.fr/hal-00765151/document)
+
+[Mise en place de la pensée de bayes dans le réseau social twitter](http://asso-aria.org/coria/2012/301.pdf)
+
+[Faire un tweet paarfait](http://asso-aria.org/coria/2012/301.pdf)
+
+[exemple du hashtag mariage pour tous](http://lexicometrica.univ-paris3.fr/jadt/jadt2014/01-ACTES/46-JADT2014.pdf)
+
+[des chiffres sur twitter](https://www.blogdumoderateur.com/chiffres-twitter/)
