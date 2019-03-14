@@ -40,7 +40,7 @@ nonmeme=[a for a in NETWORK.nodes if NETWORK.nodes[a]['meme']==0] #marque ceux q
 nx.draw_networkx_nodes(NETWORK,pos,
                        nodelist=ouimeme,
                        node_color='b',
-                       node_size=100,
+                       node_size=50,
                    alpha=0.8)
 
 nx.draw_networkx_nodes(NETWORK,pos,
@@ -52,11 +52,11 @@ nx.draw_networkx_nodes(NETWORK,pos,
 
 # edges
 nx.draw_networkx_edges(NETWORK,pos,edgelist=elarge,
-                    width=1)
+                    width=0.5)
 nx.draw_networkx_edges(NETWORK,pos,edgelist=emedium,
-                    width=1,alpha=0.7,edge_color='r',style='dashed')
+                    width=0.4,alpha=0.7,edge_color='g',style='dashed')
 nx.draw_networkx_edges(NETWORK,pos,edgelist=esmall,
-                    width=1,alpha=0.4,edge_color='g',style='dashed')
+                    width=0.3,alpha=0.4,edge_color='r',style='dashed')
 nx.draw_networkx_edges(NETWORK,pos,edgelist=ememe,
                     width=4,alpha=0.3,edge_color='b')
 
@@ -64,6 +64,7 @@ nx.draw_networkx_edges(NETWORK,pos,edgelist=ememe,
     #nx.draw_networkx_labels(NETWORK,pos,font_size=8,font_family='sans-serif')
 
 plt.axis('off')
-plt.savefig("weighted_graph.png") # save as png
+#name = "graph" + str(i) + ".png"
+#plt.savefig(name) # save as png
 plt.show() # display
 
