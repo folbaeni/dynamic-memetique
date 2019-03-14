@@ -21,3 +21,5 @@
 [The Economy of Memes](https://pewaukeeeconomics.blogspot.com/2016/12/the-economy-of-memes.html)
 
 [Y avait-il des mèmes AVANT internet ?](https://lachroniquefacile.fr/2015/05/27/y-avait-il-des-memes-avant-internet/)
+
+[Introduction a la mémétique](https://hal.archives-ouvertes.fr/hal-00765151/document)
