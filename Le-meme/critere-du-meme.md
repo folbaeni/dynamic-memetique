@@ -1,18 +1,18 @@
 # 4 grand facteur pour un bon meme 
 ## 1. Image
-        L'image est le coeur du même.
-        C'est ici que tout ce joues, c'est lui qui accroche la vue et qui va pouusé le follower a lire le même.
-        Le follower va regardé des dizaines et des dizaines de même quotidiennement. 
-        Une bonne image c'est une bonne accroche.
-        Les tweet contenant une image sont 2x plus retweeter que les autres.
-        
+L'image est le coeur du même.
+C'est ici que tout ce joues, c'est lui qui accroche la vue et qui va pouusé le follower a lire le même.
+Le follower va regardé des dizaines et des dizaines de même quotidiennement. 
+Une bonne image c'est une bonne accroche.
+Les tweet contenant une image sont 2x plus retweeter que les autres.
+
 ## 2. Texte
-        Le language doit être approprié a la cible choisie.
-        En effet un meme ne sera pas aussi populaire s'il est délivré 
-        pour un publique jeune alors que le message ne leur correspondent pas.
-        La taille du meme est aussi importante.
-        Un même long aura beaucoup moins d'impacte qu'un me rapide et dynamique.
-        Les mots engageants favorisent aussi le développement d'une idée et donc d'un même.
+Le language doit être approprié a la cible choisie.
+En effet un meme ne sera pas aussi populaire s'il est délivré 
+pour un publique jeune alors que le message ne leur correspondent pas.
+La taille du meme est aussi importante.
+Un même long aura beaucoup moins d'impacte qu'un me rapide et dynamique.
+Les mots engageants favorisent aussi le développement d'une idée et donc d'un même.
 Question / suparlatif / prendre les follower a partie est indispensable pour la réussite d'un même.
 
 ## 3. Hashtag

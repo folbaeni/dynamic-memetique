@@ -32,6 +32,7 @@ esmall=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] <=0.3]
 ememe= NETWORK.edges(zero) #edges initialies liée au zero de la diffusion du meme
 
 pos=nx.spring_layout(NETWORK) # positions for all nodes
+#    pos=nx.get_node_attributes(NETWORK,'pos')
 
 # nodes
 ouimeme=[a for a in NETWORK.nodes if NETWORK.nodes[a]['meme']==1] #marque ceux qui ont les memes
