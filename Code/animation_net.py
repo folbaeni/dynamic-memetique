@@ -40,6 +40,10 @@ def update(num):
     emedium=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >0.3 and d['weight']<0.7]
     esmall=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] <=0.3]
     ememe= NETWORK.edges(zero) #edges initialies liée au zero de la diffusion du meme
+    for (u,v,d) in NETWORK.edges(data=True):
+        print(d)
+    eememe=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['meme'] ==1]
+
     global tralala
     if tralala==0:
         global pos
@@ -59,6 +63,9 @@ def update(num):
                            node_size=60,
                        alpha=0.8)
     # edges
+    nx.draw_networkx_edges(NETWORK,pos,edgelist=eememe,
+                        width=1, alpha=0.8,edge_color='r')
+
     nx.draw_networkx_edges(NETWORK,pos,edgelist=elarge,
                         width=0.4, alpha=0.8)
     nx.draw_networkx_edges(NETWORK,pos,edgelist=emedium,
