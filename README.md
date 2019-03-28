@@ -57,4 +57,5 @@ Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre po
 
 
 <a href="Le-meme/critere-du-meme.md">Page 2</a>
+
 [Code page](https://github.com/VetFalco/dynamic-memetique/blob/master/Le-meme/critere-du-meme.md)
