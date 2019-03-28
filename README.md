@@ -54,9 +54,3 @@ Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre po
 ## Objectif
 
 ***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.***
-
-[Code](Code/animation_net.py)
-
-[a relative link](Le-meme/critere-du-meme.md)
-
-[Code page](https://github.com/VetFalco/dynamic-memetique/blob/master/Le-meme/critere-du-meme.md)
