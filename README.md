@@ -56,6 +56,6 @@ Ce modèle veut se concentrer sur la diversité des mèmes afin de comprendre po
 ***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.***
 
 
-github.com/VetFalco/dynamic-memetique/blob/master/Le-meme/critere-du-meme
+<a href="./Le-meme/critere-du-meme.md">Help</a>
 
 [Code page](https://github.com/VetFalco/dynamic-memetique/blob/master/Le-meme/critere-du-meme.md)
