@@ -21,11 +21,7 @@ def probabilite_numero_amis(network_name):
     '''
     gens= len(network_name.nodes.data())
     x = np.random.randint(1,gens,size=10)
-    t=gens
-    for i in x:
-        if i < t:
-            t=i
-    return t
+    return np.min(x)
 
 def numero_amis(network_name, personne):
     ''' str*int->int
