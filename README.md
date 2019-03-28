@@ -28,7 +28,7 @@ Les deux projets ont un but statistique, donc ils prennent les donnes des reseau
 * Mème
 * Mémétique
 * Néodarwinisme
-* Gène égoïste
+* [Gène égoïste](https://en.wikipedia.org/wiki/The_Selfish_Gene)
 * Théorie évolutionniste étendue
 * Trend
 * Imitation
