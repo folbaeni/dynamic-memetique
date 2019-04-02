@@ -53,3 +53,30 @@ blah blah
 ***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.***
 
 ## Modelisation
+
+blah blah
+
+### Code
+
+blah blah
+
+#### Network
+
+[Code relatif](code/network.md)
+blah blah
+
+#### Meme
+
+blah blah
+
+### Finalisation
+
+blah blah
+
+## Analyse
+
+blah blah
+
+## Conclusion 
+
+blah blah
