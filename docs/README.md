@@ -25,9 +25,15 @@ blah blab ,ce qui a déjà été fait sur le sujet,Dans quelles conditions,les p
 
 * [Études dans ce champ](dejafait.md)
 
+
 ## Travail preliminaire
 
-blah blah
+// depuis nos études bla bla 
+Le mème est un objet fascinant dont on semble connaitre le
+fonctionnement, bien que celui demeure néanmoins difficile a reproduire
+« artificiellement » car imprévisible. Par ailleurs aux vu des enjeux
+naissant autour de cet objet, de plus de métiers vont venir éclaircir
+ces problématiques dans les années à venir.
 
 ### Hypothèses
 
