@@ -4,7 +4,15 @@
 
 ## Le mème
 
-blah blah
+L’intéresse commun pour la mémétique et les mots de Richard Dawkins ont
+formé le binome auteur de ce document. Il se propose de analyser et
+comprendre l’interaction des mèmes sur internet et en particulier sur
+les réseaux sociaux. Pour arriver à cet objectif nous avons développé
+nos dossiers personnels en se rapprochant à l’argument, puis nous avons
+parcouru le sujet de la mémétique selon la méthode de l’OLMDP pour en
+comprendre l’ensemble et conclure sur la spécificité des réseaux.
+
+//Definition meme
 
 ### Recherche bibliographique
 
