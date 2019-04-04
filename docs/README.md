@@ -112,7 +112,40 @@ blah blah
 
 ## Analyse
 
-blah blah
+
+
+Tableau statistique:
+20 simulations par cellule.
+
+
+On a caculé la probabilité que le même survive plus de 20 générations
+
+:spades:| 50 | 100 | 200 | 400
+--------| ---| ----| ----| ---
+0.2 | 10% | 20% | 50% | 65%
+0.3 | 5% | 10% | 30% | 45%
+0.5 | 0% | 5% | 15% | 30%
+
+On a calculé la probabilité que le même atteigne 70% de diffusion
+
+:hearts:| 50 | 100 | 200 | 400
+--------| ---| ----| ----| ---
+0.2 | 15% | 25% | 40% | 55%
+0.3 | 5% | 15% | 35% | 45%
+0.5 | 0% | 5% | 15% | 25%
+
+On a calculé la probabilité qu'un même revienne à son expéditeur
+
+:clubs:| 50 | 100 | 200 | 400
+-------| ---| ----| ----| ---
+0.2 | 25% | 65% | 90% | 98%
+0.3 | 15% | 45% | 75% | 95%
+0.5 | 5% | 35% | 65% | 80%
+
+:diamonds:
+
+
+
 
 ## Conclusion
 
