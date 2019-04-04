@@ -50,7 +50,33 @@ En general, un critere permet d'apprecier le degre d'atteinte des resultats, des
 Ce sont les repers que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
 La liste des criteres pourrait etre grande, c'est à l'équipe de choisir ce qui est important pour elle, ce qu'elle attend plus precisemment comme prise de conscience, comme responsabilisation, comme amelioration.
 
+
+### Les indicateurs
+
+Ce sont les signes qui temoignent de l'existence d'un phenomene, d'un effet.
+Ils sont observables, concrets et constituent les données que l'on va recueillir. Ils sont quantitatifs ou qualitatifs.
+
+Encore une fois, il est necessaire de faire un choix parmi l'ensemble des indicateurs qu'il serait possible de prendre en compte.
+
+L'indicateur doit aussi etre choisi en fonction de sparametres suivants.
+    .Va-t-on pouvoir receuillir les données facilement ( en termes de competence pour faire ce recueil, de temps disponible, de moyens financiers...)?
+    .Est-ce que recueillir cette information pourrait gêner les personnes.
+
+Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
+
+### Question à se poser
+
+.Que vais-je observer ?    .Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?     . Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes ; par exemple )  . concretement que vais-je obeserver qui me montrera qu'il y a des iniatitives chez ce groupe de femmes ?
+
+
+
 Une coherence est indispensable entre les objectifs, les strategies et les criteres d'evaluation.
+
+### Outils d'evaluation
+
+Ils permettent le recueil des données.
+Attention, il ne faut pas les confondre avec les outils pédagogiques.
+Il est preferable de construire ses propres outils car ils seront davantage adaptes aux indicateurs precis qui ont ete choisis pour ce projet et qui correspondent aux atenters de l'equipe.
 
 ### Objectif
 
