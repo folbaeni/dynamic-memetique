@@ -21,11 +21,7 @@ def probabilite_numero_amis(network_name):
     '''
     gens= len(network_name.nodes.data())
     x = np.random.randint(1,gens,size=10)
-    t=gens
-    for i in x:
-        if i < t:
-            t=i
-    return t
+    return np.min(x)
 
 def numero_amis(network_name, personne):
     ''' str*int->int
@@ -54,21 +50,3 @@ def edges_newnetwork(network_name):
                 k= np.random.randint(100)/100
                 network_name.add_edge(i,np.random.randint(gens), weight=k)
     return()
-
-
-'''
-# INSERÉE DANS LE MANAGER 
-
-
-#INSERTION PARAMETRES INITIALES
-grandeur_network = 50
-
-#FONCTIONS APPELLES
-NETWORK = generation_reseau(grandeur_network)
-edges_newnetwork(NETWORK)
-
-#DESSIN GRAPHE
-nx.draw(NETWORK, with_labels=True)
-plt.draw()
-plt.show()
-'''
