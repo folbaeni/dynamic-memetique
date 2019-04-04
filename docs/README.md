@@ -65,9 +65,17 @@ Ensuite, un point critique a été le phenomnène de retour du mème à quelqu'u
 
 ### Code
 
-blah blah
+La partie de code a été divisée en trois grandes problematiques, ce qui correspond après à la subdivision en modules du programme:
+
+* Creation d'un network qui soit manipulable représentable
+* Insertion d'un mème dans le network et donner des loi de diffusion
+* Assemblage des parties avec une facilité à changer les variables
 
 ![Animation modèle](assets/gifs/50_02.gif)
+> Rapresentation d'un meme dans un network avec 50 personnes.
+
+Même si on n'a pas utilisé Jupyter Notebook pour coder ni rédiger notre projet, nous avons appuyé le code sur l'environnement Anaconda.
+Par conséquent nous avons utilisés les librairies de numpy, matplotlib (en particulièr pyplot et animaton) et seaborn.
 
 #### Network
 
