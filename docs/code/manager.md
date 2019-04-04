@@ -1,24 +1,17 @@
+# Code relatif au fonctionnement du modèle
+
 ```python
-#INSERTION PARAMETRES INITIALES
+#des variables
 grandeur_network = 200
 prob_perte_meme = 0.3
 
-
-#inserer meme ou je veux
-
-
-#FONCTIONS APPELLES
+#init network
 NETWORK = bn.generation_reseau(grandeur_network)
 bn.edges_newnetwork(NETWORK)
 
-
-#INTRODUCTION MEME
+#init meme
 global zero
 zero = meme.init_meme(NETWORK,'meme') #premier node avec le meme
-
-
-#INTRODUCTION DEGOUT
-
 nx.set_node_attributes(NETWORK, 0, 'degout')
 
 
@@ -27,22 +20,16 @@ fig, ax = plt.subplots()
 fig.clear()
 global tralala
 tralala=0
-
-
 global pos
 
 def update(num):
     fig.clear()
     ax.clear()
     meme.propagation_meme_gen(NETWORK,'meme',prob_perte_meme)
-    #DESSIN GRAPHE
     elarge=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >=0.7]
-    #emedium=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >0.3 and d['weight']<0.7]
-    #esmall=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] <=0.3]
     global zero
     ememe= NETWORK.edges(zero) #edges initialies liée au zero de la diffusion du meme
     eememe=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['meme'] ==1]
-
     global tralala
     if tralala==0:
         global pos
@@ -54,31 +41,13 @@ def update(num):
     if ouimeme==[]:
         zero = meme.init_meme(NETWORK,'meme')
         nx.set_node_attributes(NETWORK, 0, 'degout')
-    nx.draw_networkx_nodes(NETWORK,pos,
-                            edgecolors='black',
-                           nodelist=ouimeme,
-                           node_color='b',
-                           node_size=100,
-                       alpha=0.8)
-    nx.draw_networkx_nodes(NETWORK,pos,
-                            edgecolors='black',
-                           nodelist=nonmeme,
-                           node_color='r',
-                           node_size=100,
-                       alpha=0.8)
+    nx.draw_networkx_nodes(NETWORK,pos,edgecolors='black',nodelist=ouimeme,node_color='b',node_size=100,alpha=0.8)
+    nx.draw_networkx_nodes(NETWORK,pos,edgecolors='black',nodelist=nonmeme,node_color='r',node_size=100,alpha=0.8)
     # edges
-    nx.draw_networkx_edges(NETWORK,pos,edgelist=eememe,
-                        width=2, alpha=0.8,edge_color='r',style='dashed')
-
+    nx.draw_networkx_edges(NETWORK,pos,edgelist=eememe,width=2, alpha=0.8,edge_color='r',style='dashed')
     nx.draw_networkx_edges(NETWORK,pos,edgelist=elarge,width=0.2, alpha=0.8)
-    #nx.draw_networkx_edges(NETWORK,pos,edgelist=emedium,
-    #                    width=0.3,alpha=0.6,edge_color='g',style='dashed')
-    #nx.draw_networkx_edges(NETWORK,pos,edgelist=esmall,
-    #                    width=0.2,alpha=0.4,edge_color='r',style='dashed')
-    nx.draw_networkx_edges(NETWORK,pos,edgelist=ememe,
-                        width=3,alpha=0.2,edge_color='b')
+    nx.draw_networkx_edges(NETWORK,pos,edgelist=ememe,width=3,alpha=0.2,edge_color='b')
     plt.axis('off')
-
 
 ani = matplotlib.animation.FuncAnimation(fig, update, frames=6, interval=700, repeat=True)
 

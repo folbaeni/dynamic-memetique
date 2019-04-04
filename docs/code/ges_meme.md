@@ -1,3 +1,5 @@
+# Code relatif au meme
+
 ```python
 def init_meme(network_name,meme_name):
     '''NETWORK * float-> Void
@@ -8,7 +10,6 @@ def init_meme(network_name,meme_name):
     nx.set_node_attributes(network_name, 0, meme_name)
     nx.set_edge_attributes(network_name, 0, meme_name)
     network_name.nodes[x][meme_name] = 1
-    #lm = network_name.edges(x)
     return(x)
 
 def propagation_meme_gen(network_name,meme_name,prob_perte_meme):

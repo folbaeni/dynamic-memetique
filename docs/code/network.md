@@ -1,3 +1,5 @@
+# Code relatif au network
+
 ```python
 def generation_reseau(numero_gens):
     '''int -> NETWORK
@@ -26,7 +28,6 @@ def numero_amis(network_name, personne):
         if f==personne:
             r+=1
     return r
-
 
 def edges_newnetwork(network_name):
     ''' str -> void
