@@ -23,6 +23,11 @@ comprendre l’ensemble et conclure sur la spécificité des réseaux.
 
 blah blab ,ce qui a déjà été fait sur le sujet,Dans quelles conditions,les points forts et faibles des travaux existants
 
+Dans toutes les disciplines, la recherche documentaire, bibliographique n'est pas chose simple. Les sources d'information sont nombreuses, multiples. En dresser la liste est quasiment impossible. De plus, l'information devient tres vite inutilisable en fonction du temps. Elle se perime rapidement.
+C'est pour celà qu'il faut avoir un interet du sujet ( les mèmes ). Dans une demarche documentaire, nous devons d'abord definir le champ d erecherche, c'est à dire le domaine intellectuel dans lequel elle  a s'exercer. par exemple le meme va t -il se diffuser que dans un domaine en particulier ou bien dans plusieurs domaines mais en meme temps ? Il faut en tenir compte dans notre recherche.
+
+Dans le cas du mème, il existe plusieurs type de documents. Le document primaire désigne tout document original n'ayant subi aucune transformation comme les articles de periodiques, des livrs, des peintures, des gravures, et tout objets ou insstruments sources d'information.
+
 * [Études dans ce champ](dejafait.md)
 
 
