@@ -91,6 +91,17 @@ Il est preferable de construire ses propres outils car ils seront davantage adap
 
 ***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.***
 
+### Exemples d'objectifs
+
+Par exemple, ameliorer la communication entre jeunes et adultes de la communauté educative du lycée. Les tendances des eleves au lycée prennent souvent le dessus. Mode qui se diffuse, tendances des jeunes.
+    Les critres dans ce cas : Par ecxemple, diminuer cette tendance de l'"insolence" envers les adultes ou les professeurs.
+    Indicateurs de cette tendance : Nombre d'avertisements pour l'insolence avant et apres l'action, l'acte.
+    Outils utilisée : grille de suivi par exemple. 
+    
+    La tendance chez les jeunes à conduire sans casque, l'utilisation de la moto au lieu de la voiture.
+    Objectifs dans ce cas là : la capacité de prendre une decision adaptée au risque.
+    Outils d'evaluation : Par exemple, une echelle d'attitude sur la personne concernée.
+
 ## Modelisation
 
 blah blah
