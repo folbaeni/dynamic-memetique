@@ -2,8 +2,8 @@ import basic_network as bn
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
-import gestion_meme as meme
 import matplotlib.animation as animation
+import gestion_meme as meme
 
 #INSERTION PARAMETRES INITIALES
 grandeur_network = 100
