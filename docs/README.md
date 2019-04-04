@@ -20,15 +20,13 @@ comprendre l’ensemble et conclure sur la spécificité des réseaux.
 * [Les lieux du mème](lieux.md)
 * [Métiers et disciplines liées au mème](metiers.md)
 
-
 blah blab ,ce qui a déjà été fait sur le sujet,Dans quelles conditions,les points forts et faibles des travaux existants
 
 * [Études dans ce champ](dejafait.md)
 
-
 ## Travail preliminaire
 
-// depuis nos études bla bla 
+// depuis nos études bla bla
 Le mème est un objet fascinant dont on semble connaitre le
 fonctionnement, bien que celui demeure néanmoins difficile a reproduire
 « artificiellement » car imprévisible. Par ailleurs aux vu des enjeux
@@ -40,7 +38,7 @@ ces problématiques dans les années à venir.
 ***Il y a des mèmes qui ont plus de facilité à survivre et à se diffuser.***
 
 * différents réseaux ont des vitesses de diffusion différentes
-* un mème réussit est forcement diffuse par la diffusion d'un compte important 
+* un mème réussit est forcement diffuse par la diffusion d'un compte important
 * un mème contenant une choix A ou B a plus tendance à être diffusé
 * en fonction du pays un reseaux est plus visible que les autres
 
@@ -58,7 +56,13 @@ Une coherence est indispensable entre les objectifs, les strategies et les crite
 
 ## Modelisation
 
-blah blah
+Modeliser l'integrité d'un réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
+Pour cette raison le modèle est constitué d'une façon simplifiée, contient un réseau restraint avec un calcul maximale sur un groupe de 500-700 personnes. Les amitiés sont réciproques, du coup il n'existe pas le concept de 'follow': s'il y a une amitié entre A et B, les informations voyagent dans les deux sens.
+De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la procheté des deux individus
+
+![Animation modèle](assets/gifs/50_02.gif)
+
+![Animation modèle](assets/gifs/200_02.gif)
 
 ### Code
 
@@ -86,6 +90,6 @@ blah blah
 
 blah blah
 
-## Conclusion 
+## Conclusion
 
 blah blah
