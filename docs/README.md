@@ -63,7 +63,11 @@ De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et i
 
 Ensuite, un point critique a été le phenomnène de retour du mème à quelqu'un qui l'avait déjà: on a choisi d'avoir une probabilité de perdre le mème une fois qui'il le possède. Cela correspond dans la réalité au fait de perdre intêret das un fait ou arrêter d'utiliser une certaine façon de faire. Une fois que quelqu'un a perdu le meme, il n'aura plus la possibilté de le reprendre dans le cas qu'il le reçoit. Cela s'eloigne de la réalité, mais prendre en compte ce facteur nous obligerait à augmenter à la puissance 10 la quantité de nos calculs.
 
-![Animation modèle](assets/gifs/200_02.gif)
+![Animation modèle](assets/gifs/400_05.gif)
+> Rapresentation d'un meme dans un network avec 400 personnes.
+
+Ici il y a une simulation effectuée sur un network de 400 personne? Il est intéressant étudier la position des "nodes" autour du graphe.
+Les nodes qui sont au centre ce sont ceux qui ont plus des liaison avec le plus des gens, et les nodes externes sont ceux qui sont "pauvres" d'amitiés.
 
 ### Code
 
