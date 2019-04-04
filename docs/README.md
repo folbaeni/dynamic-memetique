@@ -57,16 +57,17 @@ Une coherence est indispensable entre les objectifs, les strategies et les crite
 ## Modelisation
 
 Modeliser l'integrité d'un réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
-Pour cette raison le modèle est constitué d'une façon simplifiée, contient un réseau restraint avec un calcul maximale sur un groupe de 500-700 personnes. Les amitiés sont réciproques, du coup il n'existe pas le concept de 'follow': s'il y a une amitié entre A et B, les informations voyagent dans les deux sens.
-De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la proximité des deux individus
-
-![Animation modèle](assets/gifs/50_02.gif)
+Pour cette raison le modèle est constitué d'une façon simplifiée, contient un réseau restraint avec un calcul maximale sur un groupe de 500-700 personnes. Les amitiés sont réciproques, du coup il n'existe pas le concept de "follow": s'il y a une amitié entre A et B, les informations voyagent dans les deux sens.
+De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la proximité des deux individus, c'est à dire la probabilité et la fréquence des transitions des mèmes entre eux. Pour ce qui concerne les graphes on a choisir de raprésenter par un trait gris seulement les liaison les plus fortes afin de maintenir la propreté et facilité d'analyse.
+Ensuite, un point critique a été le phenomnène de retour du mème à quelqu'un qui l'avait déjà: on a choisi d'avoir une probabilité de perdre le mème une fois qui'il le possède. Cela correspond dans la réalité au fait de perdre intêret das un fait ou arrêter d'utiliser une certaine façon de faire. Une fois que quelqu'un a perdu le meme, il n'aura plus la possibilté de le reprendre dans le cas qu'il le reçoit. Cela s'eloigne de la réalité, mais prendre en compte ce facteur nous obligerait à augmenter à la puissance 10 la quantité de nos calculs.
 
 ![Animation modèle](assets/gifs/200_02.gif)
 
 ### Code
 
 blah blah
+
+![Animation modèle](assets/gifs/50_02.gif)
 
 #### Network
 
