@@ -49,6 +49,10 @@ ces problématiques dans les années à venir.
 * un mème contenant une choix A ou B a plus tendance à être diffusé
 * en fonction du pays un reseaux est plus visible que les autres
 
+### Formulation de la question
+
+La formulation de la question doit dans la plupart du temps, etre formulé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; unn eliste de termes retenus et non exhaustive.
+
 ### Critères d'évaluation
 
 En general, un critere permet d'apprecier le degre d'atteinte des resultats, des objectifs.
