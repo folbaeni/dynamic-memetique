@@ -8,8 +8,8 @@ import gestion_meme as meme
 
 # Create Graph
 #INSERTION PARAMETRES INITIALES
-grandeur_network = 500
-prob_perte_meme = 0.2
+grandeur_network = 400
+prob_perte_meme = 0.5
 
 
 #inserer meme ou je veux
