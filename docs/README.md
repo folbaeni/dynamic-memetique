@@ -69,6 +69,8 @@ Ensuite, un point critique a été le phenomnène de retour du mème à quelqu'u
 Ici il y a une simulation effectuée sur un network de 400 personne? Il est intéressant étudier la position des "nodes" autour du graphe.
 Les nodes qui sont au centre ce sont ceux qui ont plus des liaison avec le plus des gens, et les nodes externes sont ceux qui sont "pauvres" d'amitiés.
 
+Il est intéressant à noter qu'il y a des liaison qui deviennent rouges l'espace d'un frame, cela veut dire qu'il y a eu un passage d'information entre les deux nodes.
+
 ### Code
 
 La partie de code a été divisée en trois grandes problematiques, ce qui correspond après à la subdivision en modules du programme:
@@ -97,7 +99,10 @@ Enfin, l'implementation de networkx a été un grand pros pour le projet car il 
 
 [Code relatif](code/ges_meme.md)
 
-blah blah
+Le mème est manipulé comme un "attribute" des nodes qui ont ou pas le mème. Le cas positif ouvre la possibilité d'envoyer le mème aux individus avec laquelle il a une liaison selon la loi de probabilité définie sur les edges (càd les liaisons).
+
+De plus, on a ajouté l'attribute "degout" qui détermine *a priori* des gens qui n'aimerons pas le mème et donc ne le retiendrons jamais.
+Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème et qui sont peut être en train de le partager, de cette façon quelq'un qui a déjà vu/imité le mème tendra avec le temps a ne plus s'identifier avec le groupe des gens ayant le mème.
 
 ### Finalisation
 
