@@ -46,7 +46,11 @@ ces problématiques dans les années à venir.
 
 ### Critères d'évaluation
 
-blah blah
+En general, un critere permet d'apprecier le degre d'atteinte des resultats, des objectifs.
+Ce sont les repers que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
+La liste des criteres pourrait etre grande, c'est à l'équipe de choisir ce qui est important pour elle, ce qu'elle attend plus precisemment comme prise de conscience, comme responsabilisation, comme amelioration.
+
+Une coherence est indispensable entre les objectifs, les strategies et les criteres d'evaluation.
 
 ### Objectif
 
