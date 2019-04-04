@@ -50,21 +50,3 @@ def edges_newnetwork(network_name):
                 k= np.random.randint(100)/100
                 network_name.add_edge(i,np.random.randint(gens), weight=k)
     return()
-
-
-'''
-# INSERÉE DANS LE MANAGER 
-
-
-#INSERTION PARAMETRES INITIALES
-grandeur_network = 50
-
-#FONCTIONS APPELLES
-NETWORK = generation_reseau(grandeur_network)
-edges_newnetwork(NETWORK)
-
-#DESSIN GRAPHE
-nx.draw(NETWORK, with_labels=True)
-plt.draw()
-plt.show()
-'''

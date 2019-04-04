@@ -8,9 +8,9 @@ import gestion_meme as meme
 
 # Create Graph
 #INSERTION PARAMETRES INITIALES
-grandeur_network = 200
-numero_generations = 100
-prob_perte_meme = 0.3
+grandeur_network = 500
+prob_perte_meme = 0.2
+
 
 #inserer meme ou je veux
 
@@ -28,18 +28,17 @@ zero = meme.init_meme(NETWORK,'meme') #premier node avec le meme
 #INTRODUCTION DEGOUT
 
 nx.set_node_attributes(NETWORK, 0, 'degout')
-#meme.degout(NETWORK)
 
 
 # Build plot
 fig, ax = plt.subplots()
 fig.clear()
-global tralala
 tralala=0
 
-global pos
+ouimeme=[1]
+i=0
 
-def update(num):
+while ouimeme!=[]:
     fig.clear()
     ax.clear()
     meme.propagation_meme_gen(NETWORK,'meme',prob_perte_meme)
@@ -47,13 +46,10 @@ def update(num):
     elarge=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >=0.7]
     #emedium=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] >0.3 and d['weight']<0.7]
     #esmall=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['weight'] <=0.3]
-    global zero
     ememe= NETWORK.edges(zero) #edges initialies liée au zero de la diffusion du meme
     eememe=[(u,v) for (u,v,d) in NETWORK.edges(data=True) if d['meme'] ==1]
 
-    global tralala
     if tralala==0:
-        global pos
         pos=nx.fruchterman_reingold_layout(NETWORK) # positions for all nodes
         tralala=1
     # nodes
@@ -87,7 +83,7 @@ def update(num):
     nx.draw_networkx_edges(NETWORK,pos,edgelist=ememe,
                         width=3,alpha=0.2,edge_color='b')
     plt.axis('off')
-
-
-ani = matplotlib.animation.FuncAnimation(fig, update, frames=6, interval=700, repeat=True)
+    i=i+1
+    name = "graph" + str(i) + ".png"
+    plt.savefig(name) # save as png
 plt.show()

@@ -4,7 +4,7 @@ import numpy as np
 import copy
 
 def init_meme(network_name,meme_name):
-    '''NETWORK -> Void
+    '''NETWORK * float-> Void
     Il insert un mémé appelé meme comme attribute à un node random et retourne le node 'victime'
     '''
     gens= len(network_name.nodes.data())
@@ -14,15 +14,6 @@ def init_meme(network_name,meme_name):
     network_name.nodes[x][meme_name] = 1
     #lm = network_name.edges(x)
     return(x)
-
-def degout(network_name):
-    gens= len(network_name.nodes.data())
-    nx.set_node_attributes(network_name, 0, 'degout')
-    for i in range(gens):
-        pra = np.random.randint(0,10)/10
-        if pra>0.7:
-            network_name.nodes[i]['degout'] = 1
-    return()
 
 def propagation_meme_gen(network_name,meme_name,prob_perte_meme):
     '''NETWORK -> Void
