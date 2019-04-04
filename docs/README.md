@@ -67,13 +67,18 @@ blah blah
 #### Network
 
 [Code relatif](code/network.md)
+
 blah blah
 
 #### Meme
 
+[Code relatif](code/ges_meme.md)
+
 blah blah
 
 ### Finalisation
+
+[Code relatif](code/manager.md)
 
 blah blah
 
