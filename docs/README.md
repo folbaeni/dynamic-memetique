@@ -58,7 +58,7 @@ Une coherence est indispensable entre les objectifs, les strategies et les crite
 
 Modeliser l'integrité d'un réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
 Pour cette raison le modèle est constitué d'une façon simplifiée, contient un réseau restraint avec un calcul maximale sur un groupe de 500-700 personnes. Les amitiés sont réciproques, du coup il n'existe pas le concept de 'follow': s'il y a une amitié entre A et B, les informations voyagent dans les deux sens.
-De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la procheté des deux individus
+De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la proximité des deux individus
 
 ![Animation modèle](assets/gifs/50_02.gif)
 
