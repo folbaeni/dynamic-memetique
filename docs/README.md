@@ -49,12 +49,12 @@ ces problématiques dans les années à venir.
 
 ### Formulation de la question
 
-La formulation de la question doit, dans la plupart du temps, etre formulé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; unn eliste de termes retenus et non exhaustive.
+La formulation de la question doit, dans la plupart du temps, etre formulé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; une liste de termes retenus et non exhaustive.
 
 ### Critères d'évaluation
 
 En general, un critere permet d'apprecier le degre d'atteinte des resultats, des objectifs.
-Ce sont les repers que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
+Ce sont les reperes que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
 La liste des criteres pourrait etre grande, c'est à l'équipe de choisir ce qui est important pour elle, ce qu'elle attend plus precisemment comme prise de conscience, comme responsabilisation, comme amelioration.
 
 
@@ -84,6 +84,13 @@ Une coherence est indispensable entre les objectifs, les strategies et les crite
 Ils permettent le recueil des données.
 Attention, il ne faut pas les confondre avec les outils pédagogiques.
 Il est preferable de construire ses propres outils car ils seront davantage adaptes aux indicateurs precis qui ont ete choisis pour ce projet et qui correspondent aux atenters de l'equipe.
+
+### Exemple - le Microblog.
+
+Comme son nom l'indique, il s'agit d'un derivé concis du blog web ou d'un web social. Cette idée a été developpé aaux Etats-Unis en 2006. Le Microblog permet des publications beaucoup plus courtes que dans les blogs classiques
+L'objectif des Microblog est de diffuser plus fréquemment des informations en se limetant ; a du contenu utile, à mi-chemin entre messageries instantanée et blogs.
+Comme les blogs, ils autorisent un archivage web ; et comme les messagerie instantanée ( messenger ) ils permettent la diffusion en temps reel des informations jugées pertinentes par leurs editeurs.
+
 
 ### Objectif
 
