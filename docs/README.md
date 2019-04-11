@@ -12,21 +12,24 @@ nos dossiers personnels en se rapprochant à l’argument, puis nous avons
 parcouru le sujet de la mémétique selon la méthode de l’OLMDP pour en
 comprendre l’ensemble et conclure sur la spécificité des réseaux.
 
-//Definition meme
-
 ### Recherche bibliographique
 
 * [Documentation sur le mème](doc.md)
 * [Les lieux du mème](lieux.md)
 * [Métiers et disciplines liées au mème](metiers.md)
 
-blah blab ,ce qui a déjà été fait sur le sujet,Dans quelles conditions,les points forts et faibles des travaux existants
+
+
+Dans toutes les disciplines, la recherche documentaire, bibliographique n'est pas chose simple. Les sources d'information sont nombreuses, multiples. En dresser la liste est quasiment impossible. De plus, l'information devient tres vite inutilisable en fonction du temps. Elle se perime rapidement.
+C'est pour celà qu'il faut avoir un interet du sujet ( les mèmes ). Dans une demarche documentaire, nous devons d'abord definir le champ d erecherche, c'est à dire le domaine intellectuel dans lequel elle  a s'exercer. par exemple le meme va t -il se diffuser que dans un domaine en particulier ou bien dans plusieurs domaines mais en meme temps ? Il faut en tenir compte dans notre recherche.
+
+Dans le cas du mème, il existe plusieurs type de documents. Le document primaire désigne tout document original n'ayant subi aucune transformation comme les articles de periodiques, des livrs, des peintures, des gravures, et tout objets ou insstruments sources d'information.
 
 * [Études dans ce champ](dejafait.md)
 
 ## Travail preliminaire
 
-// depuis nos études bla bla
+
 Le mème est un objet fascinant dont on semble connaitre le
 fonctionnement, bien que celui demeure néanmoins difficile a reproduire
 « artificiellement » car imprévisible. Par ailleurs aux vu des enjeux
@@ -42,17 +45,71 @@ ces problématiques dans les années à venir.
 * un mème contenant une choix A ou B a plus tendance à être diffusé
 * en fonction du pays un reseaux est plus visible que les autres
 
+### Formulation de la question
+
+La formulation de la question doit, dans la plupart du temps, etre formulé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; une liste de termes retenus et non exhaustive.
+
 ### Critères d'évaluation
 
 En general, un critere permet d'apprecier le degre d'atteinte des resultats, des objectifs.
-Ce sont les repers que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
+Ce sont les reperes que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
 La liste des criteres pourrait etre grande, c'est à l'équipe de choisir ce qui est important pour elle, ce qu'elle attend plus precisemment comme prise de conscience, comme responsabilisation, comme amelioration.
 
+
+### Les indicateurs
+
+Ce sont les signes qui temoignent de l'existence d'un phenomene, d'un effet.
+Ils sont observables, concrets et constituent les données que l'on va recueillir. Ils sont quantitatifs ou qualitatifs.
+
+Encore une fois, il est necessaire de faire un choix parmi l'ensemble des indicateurs qu'il serait possible de prendre en compte.
+
+L'indicateur doit aussi etre choisi en fonction de sparametres suivants.
+    .Va-t-on pouvoir receuillir les données facilement ( en termes de competence pour faire ce recueil, de temps disponible, de moyens financiers...)?
+    .Est-ce que recueillir cette information pourrait gêner les personnes.
+
+Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
+
+### Question à se poser
+
+.Que vais-je observer ?    .Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?     . Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes ; par exemple )  . concretement que vais-je obeserver qui me montrera qu'il y a des iniatitives chez ce groupe de femmes ?
+
+
+
 Une coherence est indispensable entre les objectifs, les strategies et les criteres d'evaluation.
+
+### Outils d'evaluation
+
+Ils permettent le recueil des données.
+Attention, il ne faut pas les confondre avec les outils pédagogiques.
+Il est preferable de construire ses propres outils car ils seront davantage adaptes aux indicateurs precis qui ont ete choisis pour ce projet et qui correspondent aux atenters de l'equipe.
+
+### Exemple - le Microblog
+
+Comme son nom l'indique, il s'agit d'un derivé concis du blog web ou d'un web social. Cette idée a été developpé aaux Etats-Unis en 2006. Le Microblog permet des publications beaucoup plus courtes que dans les blogs classiques
+L'objectif des Microblog est de diffuser plus fréquemment des informations en se limetant ; a du contenu utile, à mi-chemin entre messageries instantanée et blogs.
+Comme les blogs, ils autorisent un archivage web ; et comme les messagerie instantanée ( messenger ) ils permettent la diffusion en temps reel des informations jugées pertinentes par leurs editeurs.
+
+### Les services de microblogage
+
+Twitter est un service de microblogage le plus connu en Occident avec 241 millions d'utilisateurs en 2013.
+Evidemment, nous avons d'autres services tels que Identica.ca, Hello, Jaiku ( qui ont été racheté par Google Inc en 2007),Soup, Tumblr, Yammer,Sina Weibo, Tencent Weibo ( 623 millions d'utilisateurs ).
+Facebook a developpé son propre service de microblogage.
+
 
 ### Objectif
 
 ***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modeliser la diffusion dans un environnement restreint.***
+
+### Exemples d'objectifs
+
+Par exemple, ameliorer la communication entre jeunes et adultes de la communauté educative du lycée. Les tendances des eleves au lycée prennent souvent le dessus. Mode qui se diffuse, tendances des jeunes.
+    Les critres dans ce cas : Par ecxemple, diminuer cette tendance de l'"insolence" envers les adultes ou les professeurs.
+    Indicateurs de cette tendance : Nombre d'avertisements pour l'insolence avant et apres l'action, l'acte.
+    Outils utilisée : grille de suivi par exemple. 
+    
+    La tendance chez les jeunes à conduire sans casque, l'utilisation de la moto au lieu de la voiture.
+    Objectifs dans ce cas là : la capacité de prendre une decision adaptée au risque.
+    Outils d'evaluation : Par exemple, une echelle d'attitude sur la personne concernée.
 
 ## Modelisation
 
@@ -114,7 +171,40 @@ Composer les deux "modules" du code a été relativement facile surtout car les 
 
 ## Analyse
 
-blah blah
+
+
+Tableau statistique:
+20 simulations par cellule.
+
+
+On a caculé la probabilité que le même survive plus de 20 générations
+
+:spades:| 50 | 100 | 200 | 400
+--------| ---| ----| ----| ---
+0.2 | 10% | 20% | 50% | 65%
+0.3 | 5% | 10% | 30% | 45%
+0.5 | 0% | 5% | 15% | 30%
+
+On a calculé la probabilité que le même atteigne 70% de diffusion
+
+:hearts:| 50 | 100 | 200 | 400
+--------| ---| ----| ----| ---
+0.2 | 15% | 25% | 40% | 55%
+0.3 | 5% | 15% | 35% | 45%
+0.5 | 0% | 5% | 15% | 25%
+
+On a calculé la probabilité qu'un même revienne à son expéditeur
+
+:clubs:| 50 | 100 | 200 | 400
+-------| ---| ----| ----| ---
+0.2 | 25% | 65% | 90% | 98%
+0.3 | 15% | 45% | 75% | 95%
+0.5 | 5% | 35% | 65% | 80%
+
+:diamonds:
+
+
+
 
 ## Conclusion
 
