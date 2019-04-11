@@ -161,13 +161,17 @@ blah blah
 
 
 Tableau statistique:
-A l'aide de compteurs nous avons calculé les probabilté de présence du même
-Nous avons utilisé 12 cas de figures différents en regardant 4 variables à chaque fois
-Enfin pour des resultats plus précis nous avons fait 20 simulations par cas pour que l'échantionnage de probabilité soit suffisant
 
-Voici nos résultats :
+A l'aide de compteurs nous avons calculé les probabilté de présence du même.
+Nous avons utilisé 12 cas de figures différents en regardant 4 variables à chaque fois.
+La première ligne correspond aux nombres d'utilisateurs du network.
+La première colonne correspond à la probabilité de rétissence du même.
+Enfin pour des resultats plus précis nous avons fait 20 simulations par cas pour que l'échantionnage de probabilité soit suffisant.
 
-Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations
+
+Voici nos résultats:
+
+Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations.
 
   ♠ | 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
@@ -175,8 +179,8 @@ Ci dessous le tableau de probabilité révélant si le même a persisité plus d
 0.3 | 5% | 10% | 30% | 45%
 0.5 | 0% | 5% | 15% | 30%
  
-Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion
-C'est à dire que 70% de la population du network on visionné le même
+Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion.
+C'est à dire que 70% de la population du network on visionné le même.
 
 ♣  | 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
@@ -184,8 +188,8 @@ C'est à dire que 70% de la population du network on visionné le même
 0.3 | 5% | 15% | 35% | 45%
 0.5 | 0% | 5% | 15% | 25%
 
-Ci dessous, la probabilité qu'un même revienne à son expéditeur
-C'est a dire qu'au bout d'au moins trois générations le même ait fait une boucle d'expéditeur à expéditeur
+Ci dessous, la probabilité qu'un même revienne à son expéditeur.
+C'est a dire qu'au bout d'au moins trois générations le même ait fait une boucle d'expéditeur à expéditeur.
 
   ♥ | 50 | 100 | 200 | 400
 -------| ---| ----| ----| ---
@@ -193,10 +197,10 @@ C'est a dire qu'au bout d'au moins trois générations le même ait fait une bou
 0.3 | 15% | 45% | 75% | 95%
 0.5 | 5% | 35% | 65% | 80%
 
-Ci dessous on a calculé le nombre de génération ou le même a atteint 40%  diffusion
-On a, toujours a l'aide de compteur trouvé la vitesse de diffusion du même
-Enfin on a pris la moyenne des 20 essais
-Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de fois 50% pour qu'on juge de sa vitesse de diffusion  
+Ci dessous on a calculé le nombre de génération ou le même a atteint 40%  diffusion.
+On a, toujours a l'aide de compteur trouvé la vitesse de diffusion du même.
+Enfin on a pris la moyenne des 20 essais.
+Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de fois 50% pour qu'on juge de sa vitesse de diffusion.  
 
    ♦ | 50 | 100 | 200 | 400 
 -----------| ---| ----| ----| ---
@@ -205,11 +209,15 @@ Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de foi
 0.5 | N/A | 11.89 | 14.39 | 13.45
 
 
-    Ces 4 tableaux révèlent plusieurs comportements du réseaux social. En effet la large diffusion est compliqué contrairement a la rapidité de l'information. Un même transmis dans un plus grand network sera plus vu car plus facilement partagé et plus il est partagé plus il survivra longtemps. En 
-    
-    
-    
-    Certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
+Ces 4 tableaux révèlent plusieurs comportements du réseaux social. 
+En effet la large diffusion est compliqué contrairement a la rapidité de l'information. 
+Un même transmis dans un plus grand network sera plus vu car plus facilement partagé et plus il est partagé plus il survivra longtemps.
+Il se passe excatement l'inverse pour les petits networks.
+Nous avons aussi remarqué pendant nos différentes simulations que des petits groupes se forment sur les grands réseaux. 
+Cela fonctionne comme les groupes sur les vrais réseaux sociaux ou des liens forts se forment entre les utilisateurs.
+Dans ce cas de figure le même persiste dans ces groupes et a du mal a en sortir. Il tourne en cercle fermé.
+Enfin certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
+Et les simulations avec une rétissence de plus 0.5 etait inexploitable car le même ne voyageais pas du tout.
 
 
 
