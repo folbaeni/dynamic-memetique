@@ -161,18 +161,22 @@ blah blah
 
 
 Tableau statistique:
-20 simulations par cellule.
+A l'aide de compteurs nous avons calculé les probabilté de présence du même
+Nous avons utilisé 12 cas de figures différents en regardant 4 variables à chaque fois
+Enfin pour des resultats plus précis nous avons fait 20 simulations par cas pour que l'échantionnage de probabilité soit suffisant
 
+Voici nos résultats :
 
-On a caculé la probabilité que le même survive plus de 20 générations
+Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations
 
 :spades:| 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 10% | 20% | 50% | 65%
 0.3 | 5% | 10% | 30% | 45%
 0.5 | 0% | 5% | 15% | 30%
-
-On a calculé la probabilité que le même atteigne 70% de diffusion
+ 
+Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion
+C'est à dire que 70% de la population du network on visionné le même
 
 :hearts:| 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
@@ -180,7 +184,8 @@ On a calculé la probabilité que le même atteigne 70% de diffusion
 0.3 | 5% | 15% | 35% | 45%
 0.5 | 0% | 5% | 15% | 25%
 
-On a calculé la probabilité qu'un même revienne à son expéditeur
+Ci dessous, la probabilité qu'un même revienne à son expéditeur
+C'est a dire qu'au bout d'au moins trois générations le même ait fait une boucle d'expéditeur à expéditeur
 
 :clubs:| 50 | 100 | 200 | 400
 -------| ---| ----| ----| ---
@@ -188,8 +193,19 @@ On a calculé la probabilité qu'un même revienne à son expéditeur
 0.3 | 15% | 45% | 75% | 95%
 0.5 | 5% | 35% | 65% | 80%
 
-:diamonds:
+Ci dessous on a calculé le nombre de génération ou le même a atteint 40%  diffusion
+On a, toujours a l'aide de compteur trouvé la vitesse de diffusion du même
+Enfin on a pris la moyenne des 20 essais
+Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de fois 50% pour qu'on juge de sa vitesse de diffusion  
 
+:diamonds: | 50 | 100 | 200 | 400 
+-----------| ---| ----| ----| ---
+0.2 | 7.23 | 9.12 | 9.45 | 8.36
+0.3 | 8.76 | 11.13 | 12.14 | 11.85
+0.5 | N/A | 11.89 | 14.39 | 13.45
+
+
+Ces 4 tableaux révèlent plusieurs comportements du réseaux social. En effet la large diffusion est compliqué contrairement
 
 
 
