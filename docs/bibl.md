@@ -1,9 +1,9 @@
 # Bibliographie
 
-1. Graphes d'arcs circulaires et algorithme m{\'e}m{\'e}tique pour le probl{\`e}me de la clique maximum. Dang, Duc-Cuong and Moukrim, Aziz. Toulouse, France. Feb 2010. [URL](https://hal.archives-ouvertes.fr/hal-00576540/file/mem_MCP_ROADEF.pdf)
-2. Darwinian theories of cultural evolution: models and mechanisms. Claidi{\`e}re, Nicolas. Universit{\'e} Pierre et Marie Curie - Paris VI. Jul 2009. Theses. [URL](https://tel.archives-ouvertes.fr/tel-00431055/file/2009_Claidiere.pdf)
-3. Introduction critique {\`a} la m{\'e}m{\'e}tique. Dion, Emmanuel. R{\'e}f{\'e}rence. INSEE Pays de la Loire. May 2003. [URL](https://hal.archives-ouvertes.fr/hal-00765151/file/Dion_Reference_2003.pdf)
-4. Memetic algorithm for community detection in Complex Network : mitigation techniques to the resolution limit, the main weakness of modularity. Gach, Olivier. Universit{\'e} du Maine. Dec 2013. [URL](https://tel.archives-ouvertes.fr/tel-01037937/file/2013LEMA1031.pdf)
+1. Graphes d'arcs circulaires et algorithme mémétique pour le problème de la clique maximum. Dang, Duc-Cuong and Moukrim, Aziz. Toulouse, France. Feb 2010. [URL](https://hal.archives-ouvertes.fr/hal-00576540/file/mem_MCP_ROADEF.pdf)
+2. Darwinian theories of cultural evolution: models and mechanisms. Claidière, Nicolas. Université Pierre et Marie Curie - Paris VI. Jul 2009. Theses. [URL](https://tel.archives-ouvertes.fr/tel-00431055/file/2009_Claidiere.pdf)
+3. Introduction critique {\`a} la mémétique. Dion, Emmanuel. Référence. INSEE Pays de la Loire. May 2003. [URL](https://hal.archives-ouvertes.fr/hal-00765151/file/Dion_Reference_2003.pdf)
+4. Memetic algorithm for community detection in Complex Network : mitigation techniques to the resolution limit, the main weakness of modularity. Gach, Olivier. Université du Maine. Dec 2013. [URL](https://tel.archives-ouvertes.fr/tel-01037937/file/2013LEMA1031.pdf)
 5. Tentative de définition par un méméticien. Société Francophone de Mémétique » Mémétique. 18 Jan 2009. [URL](https://www.memetique.org/2009/01/memetique-tentative-de-definition-par-un-memeticien/)
 6. Memes Are Becoming Harder to Monetize. The Atlantic. Lorenz, Taylor. Atlantic Media Company. Jun 2018. [URL](https://www.theatlantic.com/technology/archive/2018/05/memes-are-becoming-harder-to-monetize/561578/)
 7. The Economy of Memes. Pewaukee economics. Reuter, Jim. Dec 2016. [URL](https://pewaukeeeconomics.blogspot.com/2016/12/the-economy-of-memes.html)
