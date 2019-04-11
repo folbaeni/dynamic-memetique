@@ -239,7 +239,7 @@ les 3 hypotheses :
     En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publication. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
     Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. tout est dans son systheme interne. En effet le systheme de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chance d'être retweeter sont importants et plus votre même sera visible.  
 
-2) Un même réussit est forcemetn diffuser par un compte important.
+2) Un même réussit est forcement diffuser par un compte important.
 
     Vrai et faux. En effet si le même débute d'un gros compte il aura beaucoup plus de chance d'être partager, mais la diffusion d'un même étant chaotique une personne peut lancer un même avec un petit compte. 
 
