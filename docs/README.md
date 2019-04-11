@@ -90,7 +90,7 @@ Il est preferable de construire ses propres outils car ils seront davantage adap
 
 ### Exemple - le Microblog
 
-Comme son nom l'indique, il s'agit d'un derivé concis du blog web ou d'un web social. Cette idée a été developpé aaux Etats-Unis en 2006. Le Microblog permet des publications beaucoup plus courtes que dans les blogs classiques
+Comme son nom l'indique, il s'agit d'un derivé concis du blog web ou d'un web social. Cette idée a été developpé aux Etats-Unis en 2006. Le Microblog permet des publications beaucoup plus courtes que dans les blogs classiques
 L'objectif des Microblog est de diffuser plus fréquemment des informations en se limetant ; a du contenu utile, à mi-chemin entre messageries instantanée et blogs.
 Comme les blogs, ils autorisent un archivage web ; et comme les messagerie instantanée ( messenger ) ils permettent la diffusion en temps reel des informations jugées pertinentes par leurs editeurs.
 
