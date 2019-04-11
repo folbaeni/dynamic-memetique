@@ -104,11 +104,13 @@ Le mème est manipulé comme un "attribute" des nodes qui ont ou pas le mème. L
 De plus, on a ajouté l'attribute "degout" qui détermine *a priori* des gens qui n'aimerons pas le mème et donc ne le retiendrons jamais.
 Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème et qui sont peut être en train de le partager, de cette façon quelq'un qui a déjà vu/imité le mème tendra avec le temps a ne plus s'identifier avec le groupe des gens ayant le mème.
 
+Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a choisi de marquer en rouge les edges ou il y a un passage entre deux nodes. Cette fonction permet en plus de visualiser grossièrement la popularité d'un mème car beaucoup ou pas partagé.
+
 ### Finalisation
 
 [Code relatif](code/manager.md)
 
-blah blah
+Composer les deux "modules" du code a été relativement facile surtout car les deux marchaient déjà enseble dans la phase de production. Globalement cela a permis de visualiser avec les graphes même en construisant des animations les données élaborées par le module 'mèmes' lequel s'appuyait bien sur la librairie NetworkX.
 
 ## Analyse
 
@@ -117,3 +119,5 @@ blah blah
 ## Conclusion
 
 blah blah
+
+***[Bibliographie](bibl.md)***
