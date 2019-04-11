@@ -235,9 +235,9 @@ Enfin voici les critères de réussite du même:
 les 3 hypotheses :
 1) Différents réseaux sociaux ont des vitesses de diffusion différentes.
 
-    Les réseaux sociaux amis-amis tel que facebook ont une diffusion très lente.
-    En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publication. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
-    Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. tout est dans son systheme interne. En effet le systheme de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chance d'être retweeter sont importants et plus votre même sera visible.  
+    Les réseaux sociaux amis-amis tels que facebook ont une diffusion très lente.
+    En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publications. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
+    Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. Tout provient de son système interne. En effet le système de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chances d'être retweeter sont importants et plus votre même sera visible.  
 
 2) Un même réussit est forcement diffuser par un compte important.
 
