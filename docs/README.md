@@ -12,8 +12,6 @@ nos dossiers personnels en se rapprochant à l’argument, puis nous avons
 parcouru le sujet de la mémétique selon la méthode de l’OLMDP pour en
 comprendre l’ensemble et conclure sur la spécificité des réseaux.
 
-//Definition meme
-
 ### Recherche bibliographique
 
 * [Documentation sur le mème](doc.md)
