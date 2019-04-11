@@ -232,7 +232,7 @@ Enfin voici les critères de réussite du même:
 ## Conclusion
 
 
-les 3 hypotheses :
+Les 3 hypotheses :
 1) Différents réseaux sociaux ont des vitesses de diffusion différentes.
 
     Les réseaux sociaux amis-amis tels que facebook ont une diffusion très lente.
