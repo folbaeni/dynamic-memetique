@@ -17,11 +17,12 @@
 15. A Note on the Origin of 'Memes' / 'Mnemes'. Journal of Memetics - Evolutionary Models of Information Transmission. John Laurent. 1999.
 16. The Life of the WHite Ant. M. Maeterlink. George Allen & Unwin. 1927. London.
 
-## Sources Sécondaires[Google Trends](https://trends.google.fr/trends/?geo=FR)
+## Sources Sécondaires
 
-1. [OSoMe](https://osome.iuni.iu.edu/)
-2. [Twitter Trends unofficial](https://trends24.in/)
-3. [Facebook buisness trends report 2019](https://www.facebook.com/business/news/insights/2019-topics-and-trends-report)
-4. [Mise en place de la pensée de bayes dans le réseau social twitter](http://asso-aria.org/coria/2012/301.pdf)
-5. [Faire un tweet paarfait](http://asso-aria.org/coria/2012/301.pdf)[Exemple du hashtag mariage pour tous](http://lexicometrica.univ-paris3.fr/jadt/jadt2014/01-ACTES/46-JADT2014.pdf)
-6. [Chiffres sur twitter](https://www.blogdumoderateur.com/chiffres-twitter/)
+1. [Google Trends](https://trends.google.fr/trends/?geo=FR)
+2. [OSoMe](https://osome.iuni.iu.edu/)
+3. [Twitter Trends unofficial](https://trends24.in/)
+4. [Facebook buisness trends report 2019](https://www.facebook.com/business/news/insights/2019-topics-and-trends-report)
+5. [Mise en place de la pensée de bayes dans le réseau social twitter](http://asso-aria.org/coria/2012/301.pdf)
+6. [Faire un tweet paarfait](http://asso-aria.org/coria/2012/301.pdf)[Exemple du hashtag mariage pour tous](http://lexicometrica.univ-paris3.fr/jadt/jadt2014/01-ACTES/46-JADT2014.pdf)
+7. [Chiffres sur twitter](https://www.blogdumoderateur.com/chiffres-twitter/)

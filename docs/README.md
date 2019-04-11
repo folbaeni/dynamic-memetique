@@ -210,4 +210,4 @@ On a calculé la probabilité qu'un même revienne à son expéditeur
 
 blah blah
 
-***[Bibliographie](bibl.md)***
+**[Bibliographie](bibl.md)**
