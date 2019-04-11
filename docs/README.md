@@ -73,7 +73,7 @@ Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
 
 ### Question à se poser
 
-.Que vais-je observer ?    .Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?     . Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes ; par exemple )  . concretement que vais-je obeserver qui me montrera qu'il y a des iniatitives chez ce groupe de femmes ?
+Que vais-je observer ? Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ? Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes, par exemple ). Concretement que vais-je obeserver qui me montrera qu'il y a des iniatitives chez ce groupe de femmes ?
 
 
 
@@ -231,4 +231,4 @@ Enfin voici les critères de réussite du même:
 
 ## Conclusion
 
-blah blah
+
