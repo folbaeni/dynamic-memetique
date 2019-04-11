@@ -169,7 +169,7 @@ Voici nos résultats :
 
 Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations
 
-:spades:| 50 | 100 | 200 | 400
+  ♠ | 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 10% | 20% | 50% | 65%
 0.3 | 5% | 10% | 30% | 45%
@@ -178,7 +178,7 @@ Ci dessous le tableau de probabilité révélant si le même a persisité plus d
 Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion
 C'est à dire que 70% de la population du network on visionné le même
 
-:hearts:| 50 | 100 | 200 | 400
+♣  | 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 15% | 25% | 40% | 55%
 0.3 | 5% | 15% | 35% | 45%
@@ -187,7 +187,7 @@ C'est à dire que 70% de la population du network on visionné le même
 Ci dessous, la probabilité qu'un même revienne à son expéditeur
 C'est a dire qu'au bout d'au moins trois générations le même ait fait une boucle d'expéditeur à expéditeur
 
-:clubs:| 50 | 100 | 200 | 400
+  ♥ | 50 | 100 | 200 | 400
 -------| ---| ----| ----| ---
 0.2 | 25% | 65% | 90% | 98%
 0.3 | 15% | 45% | 75% | 95%
@@ -198,14 +198,19 @@ On a, toujours a l'aide de compteur trouvé la vitesse de diffusion du même
 Enfin on a pris la moyenne des 20 essais
 Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de fois 50% pour qu'on juge de sa vitesse de diffusion  
 
-:diamonds: | 50 | 100 | 200 | 400 
+   ♦ | 50 | 100 | 200 | 400 
 -----------| ---| ----| ----| ---
 0.2 | 7.23 | 9.12 | 9.45 | 8.36
 0.3 | 8.76 | 11.13 | 12.14 | 11.85
 0.5 | N/A | 11.89 | 14.39 | 13.45
 
 
-Ces 4 tableaux révèlent plusieurs comportements du réseaux social. En effet la large diffusion est compliqué contrairement
+    Ces 4 tableaux révèlent plusieurs comportements du réseaux social. En effet la large diffusion est compliqué contrairement a la rapidité de l'information. Un même transmis dans un plus grand network sera plus vu car plus facilement partagé et plus il est partagé plus il survivra longtemps. En 
+    
+    
+    
+    Certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
+
 
 
 
