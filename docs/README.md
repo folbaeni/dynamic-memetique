@@ -27,7 +27,7 @@ Dans le cas du mème, il existe plusieurs type de documents. Le document primair
 
 * [Études dans ce champ](dejafait.md)
 
-## Travail preliminaire
+### Travail preliminaire
 
 
 Le mème est un objet fascinant dont on semble connaitre le
