@@ -47,7 +47,7 @@ ces problématiques dans les années à venir.
 
 ### Formulation de la question
 
-La formulation de la question doit, dans la plupart du temps, etre formulé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; une liste de termes retenus et non exhaustive.
+La formulation de la question doit, dans la plupart du temps, etre énoncé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; une liste de termes retenus et non exhaustive.
 
 ### Critères d'évaluation
 
