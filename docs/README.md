@@ -219,7 +219,14 @@ Dans ce cas de figure le même persiste dans ces groupes et a du mal a en sortir
 Enfin certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
 Et les simulations avec une rétissence de plus 0.5 etait inexploitable car le même ne voyageais pas du tout.
 
+Enfin voici les critères de réussite du même:
 
+* -"Temps de compréhension" : Image + 1 ligne de texte a une diffusion bien supérieur à un pavé de texte.
+* -"Une accroche" : si un même plait c'est qu'il est visible. L'utilisation d'hashtags, d'une image ou des phrases accrocheuses augmente cette visibilité.
+* -"Les questions rétorique" : elles permettent de faire participé l'utilisateur, donc le même sera plus facilement partagé.
+* -"Private Joke" : un même très spécifique peut déplaire. En effet on ne comprendra pas le même d'origine inconnue. Exemple: une personne qui n'a jamais vu star wars ne comprendra pas le "que la force soit avec toi". Par contre ce même peut devenir très populaire pour la population ayant connaissance du support mais aura tendence à circuler en cercle fermé.
+* -"L'origine" : La personne à lancer le même est très importante pour qu'un même réussisse. Une personnalité médiatisé aura un impacte plus direct et important qu'une personne lamda. (par exemple les expressions reprises de personnalitée : le "non mais alo quoi" de Nabilla en 2013).
+* -"La chance" : la diffusion d'un même est chaotique donc on ne peut pas savoir ce qui marchera ou pas. De plus si un autre même surplombe le votre, celui-ci passera inaperçu.
 
 
 ## Conclusion
