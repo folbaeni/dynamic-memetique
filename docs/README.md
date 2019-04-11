@@ -118,7 +118,7 @@ Par exemple, ameliorer la communication entre jeunes et adultes de la communaut�
 
 ## Modelisation
 
-Modeliser l'integrité d'un réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
+Modeliser l'integrité des réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
 Pour cette raison le modèle est constitué d'une façon simplifiée, contient un réseau restraint avec un calcul maximale sur un groupe de 500-700 personnes. Les amitiés sont réciproques, du coup il n'existe pas le concept de "follow": s'il y a une amitié entre A et B, les informations voyagent dans les deux sens.
 
 De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la proximité des deux individus, c'est à dire la probabilité et la fréquence des transitions des mèmes entre eux. Pour ce qui concerne les graphes on a choisir de raprésenter par un trait gris seulement les liaison les plus fortes afin de maintenir la propreté et facilité d'analyse.
