@@ -53,7 +53,6 @@ En general, un critère permet d'apprecier le degré d'atteinte des resultats, d
 Ce sont les reperes que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
 La liste des criteres pourrait etre grande, c'est à l'équipe de choisir ce qui est important pour elle, ce qu'elle attend plus précisemment comme prise de conscience, comme responsabilisation, comme amelioration.
 
-
 ### Les indicateurs
 
 Ce sont les signes qui témoignent de l'existence d'un phénomène, d'un effet.
@@ -69,10 +68,10 @@ Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
 
 ### Question à se poser
 
-* Que vais-je observer ?
-* Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?
-* Comment recueillir l'expression des signes de difficulté à suivre un traitement ?
-* Concretement, quelles observations me montrera les iniatitives chez ce groupe de femmes ?
+* *Que vais-je observer ?*
+* *Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?*
+* *Comment recueillir l'expression des signes de difficulté à suivre un traitement ?*
+* *Concretement, quelles observations me montrera les iniatitives chez ce groupe de femmes ?*
 
 Une cohérence est indispensable entre les objectifs, les strategies et les criteres d'evaluations.
 
@@ -98,7 +97,6 @@ Twitter est un service de microblogage le plus connu en Occident avec 241 millio
 Evidemment, nous avons d'autres services tels que Identica.ca, Hello, Jaiku ( qui ont été racheté par Google Inc en 2007),Soup, Tumblr, Yammer,Sina Weibo, Tencent Weibo ( 623 millions d'utilisateurs ).
 Facebook a developpé son propre service de microblogage.
 
-
 ### Objectif
 
 ***Évaluer les critères de réussite d'un mème sur les réseaux sociaux et en modéliser la diffusion dans un environnement restreint.***
@@ -111,8 +109,8 @@ Par exemple, ameliorer la communication entre jeunes et adultes de la communaut�
 
 **Indicateurs de cette tendance** : Nombre d'avertisement pour l'insolence avant et après l'action, l'acte.
 
-**Outils utilisées** : grille de suivi par exemple. 
-    
+**Outils utilisées** : grille de suivi par exemple.
+
 La tendance chez les jeunes à conduire sans casque, l'utilisation de la moto au lieu de la voiture.
 
 **Objectifs dans ce cas là** : la capacité de prendre une decision adaptée au risque.
@@ -187,7 +185,6 @@ La première ligne correspond aux nombres d'utilisateurs du network.
 La première colonne correspond à la probabilité de rétissence du même.
 Enfin pour des resultats plus précis nous avons fait 20 simulations par cas pour que l'échantionnage de probabilité soit suffisant.
 
-
 Voici nos résultats:
 
 Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations.
@@ -221,18 +218,17 @@ On a, toujours a l'aide de compteur trouvé la vitesse de diffusion du même.
 Enfin on a pris la moyenne des 20 essais.
 Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de fois 50% pour qu'on juge de sa vitesse de diffusion.  
 
-   ♦ | 50 | 100 | 200 | 400 
+   ♦ | 50 | 100 | 200 | 400
 -----------| ---| ----| ----| ---
 0.2 | 7.23 | 9.12 | 9.45 | 8.36
 0.3 | 8.76 | 11.13 | 12.14 | 11.85
 0.5 | N/A | 11.89 | 14.39 | 13.45
 
-
 Ces 4 tableaux révèlent plusieurs comportements du réseaux social. 
 En effet la large diffusion est compliqué contrairement a la rapidité de l'information. 
 Un même transmis dans un plus grand network sera plus vu car plus facilement partagé et plus il est partagé plus il survivra longtemps.
 Il se passe excatement l'inverse pour les petits networks.
-Nous avons aussi remarqué pendant nos différentes simulations que des petits groupes se forment sur les grands réseaux. 
+Nous avons aussi remarqué pendant nos différentes simulations que des petits groupes se forment sur les grands réseaux.
 Cela fonctionne comme les groupes sur les vrais réseaux sociaux ou des liens forts se forment entre les utilisateurs.
 Dans ce cas de figure le même persiste dans ces groupes et a du mal a en sortir. Il tourne en cercle fermé.
 Enfin certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
@@ -240,29 +236,29 @@ Et les simulations avec une rétissence de plus 0.5 etait inexploitable car le m
 
 Enfin voici les critères de réussite du même:
 
-* -"Temps de compréhension" : Image + 1 ligne de texte a une diffusion bien supérieur à un pavé de texte.
-* -"Une accroche" : si un même plait c'est qu'il est visible. L'utilisation d'hashtags, d'une image ou des phrases accrocheuses augmente cette visibilité.
-* -"Les questions rétorique" : elles permettent de faire participé l'utilisateur, donc le même sera plus facilement partagé.
-* -"Private Joke" : un même très spécifique peut déplaire. En effet on ne comprendra pas le même d'origine inconnue. Exemple: une personne qui n'a jamais vu star wars ne comprendra pas le "que la force soit avec toi". Par contre ce même peut devenir très populaire pour la population ayant connaissance du support mais aura tendence à circuler en cercle fermé.
-* -"L'origine" : La personne à lancer le même est très importante pour qu'un même réussisse. Une personnalité médiatisé aura un impacte plus direct et important qu'une personne lamda. (par exemple les expressions reprises de personnalitée : le "non mais alo quoi" de Nabilla en 2013).
-* -"La chance" : la diffusion d'un même est chaotique donc on ne peut pas savoir ce qui marchera ou pas. De plus si un autre même surplombe le votre, celui-ci passera inaperçu.
-
+* *"Temps de compréhension"* : Image + 1 ligne de texte a une diffusion bien supérieur à un pavé de texte.
+* *"Une accroche"* : si un même plait c'est qu'il est visible. L'utilisation d'hashtags, d'une image ou des phrases accrocheuses augmente cette visibilité.
+* *"Les questions rétorique"* : elles permettent de faire participé l'utilisateur, donc le même sera plus facilement partagé.
+* *"Private Joke"* : un même très spécifique peut déplaire. En effet on ne comprendra pas le même d'origine inconnue. Exemple: une personne qui n'a jamais vu star wars ne comprendra pas le "que la force soit avec toi". Par contre ce même peut devenir très populaire pour la population ayant connaissance du support mais aura tendence à circuler en cercle fermé.
+* *"L'origine"* : La personne à lancer le même est très importante pour qu'un même réussisse. Une personnalité médiatisé aura un impacte plus direct et important qu'une personne lamda. (par exemple les expressions reprises de personnalitée : le "non mais alo quoi" de Nabilla en 2013).
+* *"La chance"* : la diffusion d'un même est chaotique donc on ne peut pas savoir ce qui marchera ou pas. De plus si un autre même surplombe le votre, celui-ci passera inaperçu.
 
 ## Conclusion
 
 Les 3 hypotheses :
-1) Différents réseaux sociaux ont des vitesses de diffusion différentes.
 
-    Les réseaux sociaux amis-amis tels que facebook ont une diffusion très lente.
-    En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publications. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
-    Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. Tout provient de son système interne. En effet le système de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chances d'être retweeter sont importants et plus votre même sera visible.  
+1. ***Différents réseaux sociaux ont des vitesses de diffusion différentes.***
 
-2) Un même réussit est forcement diffuser par un compte important.
+Les réseaux sociaux amis-amis tels que facebook ont une diffusion très lente.
+En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publications. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
+Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. Tout provient de son système interne. En effet le système de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chances d'être retweeter sont importants et plus votre même sera visible.  
 
-    Vrai et faux. En effet si le même débute d'un gros compte il aura beaucoup plus de chance d'être partager, mais la diffusion d'un même étant chaotique une personne peut lancer un même avec un petit compte. 
+2. ***Un même réussit est forcement diffuser par un compte important.***
 
-3) Un même contenant un choix A et B a plus tendance à être diffuser.
+Vrai et faux. En effet si le même débute d'un gros compte il aura beaucoup plus de chance d'être partager, mais la diffusion d'un même étant chaotique une personne peut lancer un même avec un petit compte. 
 
-    Lorsque le choix de l'utilisateur est mis en jeu son partage est plus important. Mais si le design du choix est mauvais l'utilisateur aura tendance a l'ignoré.
+3. ***Un même contenant un choix A et B a plus tendance à être diffuser.***
+
+Lorsque le choix de l'utilisateur est mis en jeu son partage est plus important. Mais si le design du choix est mauvais l'utilisateur aura tendance a l'ignoré.
 
 **[Bibliographie](bibl.md)**

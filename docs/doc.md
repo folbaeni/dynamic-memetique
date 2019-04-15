@@ -1,8 +1,6 @@
-Mèmes
-=====
+# Mèmes
 
-Objet
------
+## Objet
 
 > *Cet objet a été choisi car loin de l’image que l’on s’en fait d’un
 > sujet trivial et uniquement à visée humoristique, il s’agit de
@@ -81,13 +79,13 @@ l’évolution des gènes. [@dion:hal-00765151]
 
 Ces lois sont :
 
--   Le principe de variation : les instances sont differentes au sein de
+* **Le principe de variation** : les instances sont differentes au sein de
     la « population » (c’est difference son dûes au mode de réplication.
     Pour filer la métaphore, il peut s’agir d’une mauvaise imitation de
     l’air ou des paroles de la chanson, ou bien d’une parodie, d’un
     détournement)
 
--   la selection du plus apte : les instances qui auront une forme (ou
+* **La selection du plus apte** : les instances qui auront une forme (ou
     un contenu) favorisant la réplication, seront sélectionnés les
     autres seront oubliés. En d’autres termes les mèmes les plus
     imitables perdurent.
