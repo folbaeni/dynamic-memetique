@@ -1,6 +1,10 @@
 # La diffusion des mèmes parmi les reseaux sociaux
 
-> **Quels critères influencent la visibilité d'un même?**
+>La mémétique est le domaine le plus vaste pour ce qui concerne la transmission des informations et le développement des ‘trends’ sur les réseaux sociaux. Ce concept a été introduit par Richard Dawkins, en appliquant les connaissances de la génétique à la sociologie et à l’anthropologie évolutionniste. Les applications de ce domaine touchent majoritairement le marketing, la politique, le divertissement et la musique. Pour cette raison ,il est intéressant de pouvoir analyser la ‘phénotypique’ en comprenant la diffusion des habitudes et idées communes dans la société. Si la récolte et l’analyse des données d’un seul mème demande une quantité de calcul immense, et les algorithmes sont inexistants. Avoir un modèle qui puisse prévoir l’évolution et la diffusion d’un certain mème en connaissant les critères des différents outils de partages est aujourd’hui un défi irréalisé. Enfin nous avons choisi de réaliser un modèle afin de comprendre les dynamiques du mème, dans un environnement simplifiée afin d’établir des critères fondamentales pour la propagation d’un mème.
+
+> The memetic is the biggest domain for the transmission of information, and the development of « trends » on the social network. This concept was introduced by Richard Dawkins, applying this knowledge of the genetic to the sociology and at the evolutionary anthropology. The application of this domain are mostly related with marketing, politic, entertainment and the music. For this reason, it’s interesting to have the power of analysed the ‘phenotypic’ while understanding the diffusion of the habits and the common ideas in the society If the harvest and the data analyse of one meme request a huge quantity of computing, and the algorithm are inexistent. Having a model that can predict the evolution and the diffusion of a certain meme while knowing the different criteria of sharing tools are a unrealised challenge today. Finally we have chosen to realised a model in order to understand the dynamics of the meme, in a simple model in order to establish the fundamental criteria for the propagation of a meme.
+
+**Quels critères influencent la visibilité d'un même?**
 
 ## Le mème
 
