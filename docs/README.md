@@ -203,7 +203,7 @@ Ci dessous le tableau de probabilité révélant si le même a persisité plus d
 0.2 | 10% | 20% | 50% | 65%
 0.3 | 5% | 10% | 30% | 45%
 0.5 | 0% | 5% | 15% | 30%
- 
+
 Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion.
 C'est à dire que 70% de la population du network on visionné le même.
 
@@ -233,8 +233,8 @@ Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de foi
 0.3 | 8.76 | 11.13 | 12.14 | 11.85
 0.5 | N/A | 11.89 | 14.39 | 13.45
 
-Ces 4 tableaux révèlent plusieurs comportements du réseaux social. 
-En effet la large diffusion est compliqué contrairement a la rapidité de l'information. 
+Ces 4 tableaux révèlent plusieurs comportements du réseaux social.
+En effet la large diffusion est compliqué contrairement a la rapidité de l'information.
 Un même transmis dans un plus grand network sera plus vu car plus facilement partagé et plus il est partagé plus il survivra longtemps.
 Il se passe excatement l'inverse pour les petits networks.
 Nous avons aussi remarqué pendant nos différentes simulations que des petits groupes se forment sur les grands réseaux.

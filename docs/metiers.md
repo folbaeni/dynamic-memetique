@@ -20,7 +20,6 @@ sciences sociales
 
 ## Disciplines
 
-
 * Biologie
 
 * Sociologie

@@ -1,7 +1,6 @@
-Lieux
------
+# Lieux
 
-### Lieux d’étude et conception
+## Lieux d’étude et conception
 
 L’étude des mème est surtout informative dans la mesure où elle nous
 renseigne sur la manière dont se transmet l’information : Afin de
@@ -38,7 +37,7 @@ Simulation of Information Network Environments), qui vise à simuler un
 cadre afin d’étudier les phénomènes sociaux a toutes échelles
 géographiques et temporelles.
 
-### Lieux de construction
+## Lieux de construction
 
 Le mème étant l’unité de la culture il n’exite pas a proprement parler
 de lieu précis où sont construit les mèmes. Les mèmes se créent partout
@@ -50,7 +49,7 @@ mèmes.
 
 Artistes, phénomenes sociaux, théories scientifiques, traditions.
 
-### Lieux d’utilisation
+## Lieux d’utilisation
 
 Définir des lieux concrets d’application pour le mèmes est très
 difficile car ils sont très diffus. Il suffit de considérer que tout
@@ -60,7 +59,7 @@ en considérant l’utilisation primaire elle est conséquence de la
 présence de tout mème, par contre une utilisation commerciale concentrée
 dans tout centre urbain, surtout dans les métropoles.
 
-#### Pool et identité mèmetique
+### Pool et identité mèmetique
 
 Il est possible d’identifier différents niveaux de pools mèmétiques
 parce que déjà un individu est considéré comme un pool. Par contre un
@@ -73,7 +72,7 @@ complètementdifférents. En faisant un parallélisme avec la génétique on
 peut affirmer qu’une forte affinité entre les mèmes de deux individus
 est conséquence d’uneappartenance au même groupe culturel.
 
-#### Hiérarchie des territoires et interactions
+### Hiérarchie des territoires et interactions
 
 Bien qu’on ne puisse pas établir un lieu physique aux mèmes, on en peut
 analyser la concentration par rapport aux interactions. Aujourd’hui les
@@ -89,7 +88,7 @@ affolé. Ces phénomènes sont évidemment plus fréquentes dans les lieux ou
 la population et les biens ce concentrent avec une rythme sûrement plus
 rapide que dans les lieux isolées.
 
-#### Supports, technologies et déplacement humain
+### Supports, technologies et déplacement humain
 
 ***Globalisation***: La globalisation a marqué un changement radical
 dans le déplacement et diffusion des mèmes car ce phénomène a abondement
@@ -125,7 +124,7 @@ théorique dans les livres.
 
 Supports culturels
 
-### Lieux d’application
+## Lieux d’application
 
 ***Divertissement***: C’est le grand domaine d’application des mèmes,
 ils sont à la base de chaque mouvement ou action. Ce qui est

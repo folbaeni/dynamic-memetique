@@ -48,7 +48,6 @@ longtemps.
 Exemple: le jeu du passe-mot avec une technique plus avancée, puis avec
 un dessin (2 types d’information, analogique ou numérique/digitale)
 
-
 Un “mémeplexe” est un complexe de mèmes qui, même s’ils ne sont pas
 nécessairement capables de survivre tous seuls, sont capables de
 survivre en présence des autres mèmes du mémeplexe.
@@ -119,8 +118,7 @@ Il faut analyser les deux phases: la création et la diffusion. La
 création d’un mème est la conséquence de la mutation d’un mème déjà
 existant. Ce mème peut se manifester dans la phénotypique avec la
 variation de la façon de prononcer une lettre ou un mot, un tic, une
-expression, la répétition d’une mot, l’acquis d’une nouvelle habitude. 
-Le changement d’un individu ou d’une société par un seul mème
+expression, la répétition d’une mot, l’acquis d’une nouvelle habitude. Le changement d’un individu ou d’une société par un seul mème
 est minimal et invisible, il faut que le pool mémétique change d’un
 0,02% afin que la différence soit visible (l’utilisation fréquente d’un
 mot par un individu). Des phénomènes plus grands, comme un mouvement
