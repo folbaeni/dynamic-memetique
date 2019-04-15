@@ -12,15 +12,13 @@ nos dossiers personnels en se rapprochant à l’argument, puis nous avons
 parcouru le sujet de la mémétique selon la méthode de l’OLMDP pour en
 comprendre l’ensemble et conclure sur la spécificité des réseaux.
 
-//Definition meme
-
 ### Recherche bibliographique
 
 * [Documentation sur le mème](doc.md)
 * [Les lieux du mème](lieux.md)
 * [Métiers et disciplines liées au mème](metiers.md)
 
-blah blab ,ce qui a déjà été fait sur le sujet,Dans quelles conditions,les points forts et faibles des travaux existants
+
 
 Dans toutes les disciplines, la recherche documentaire, bibliographique n'est pas chose simple. Les sources d'information sont nombreuses, multiples. En dresser la liste est quasiment impossible. De plus, l'information devient tres vite inutilisable en fonction du temps. Elle se perime rapidement.
 C'est pour celà qu'il faut avoir un interet du sujet ( les mèmes ). Dans une demarche documentaire, nous devons d'abord definir le champ d erecherche, c'est à dire le domaine intellectuel dans lequel elle  a s'exercer. par exemple le meme va t -il se diffuser que dans un domaine en particulier ou bien dans plusieurs domaines mais en meme temps ? Il faut en tenir compte dans notre recherche.
@@ -29,9 +27,9 @@ Dans le cas du mème, il existe plusieurs type de documents. Le document primair
 
 * [Études dans ce champ](dejafait.md)
 
-## Travail preliminaire
+### Travail preliminaire
 
-// depuis nos études bla bla
+
 Le mème est un objet fascinant dont on semble connaitre le
 fonctionnement, bien que celui demeure néanmoins difficile a reproduire
 « artificiellement » car imprévisible. Par ailleurs aux vu des enjeux
@@ -49,12 +47,12 @@ ces problématiques dans les années à venir.
 
 ### Formulation de la question
 
-La formulation de la question doit dans la plupart du temps, etre formulé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; unn eliste de termes retenus et non exhaustive.
+La formulation de la question doit, dans la plupart du temps, etre énoncé par ses propres mots. Cependant, même si l'objectif est formulé selon nos propres mots, il est important d'avoir une liste d'informations ; une liste de termes retenus et non exhaustive.
 
 ### Critères d'évaluation
 
 En general, un critere permet d'apprecier le degre d'atteinte des resultats, des objectifs.
-Ce sont les repers que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
+Ce sont les reperes que l'on choisit pour servir de base à notre jugement. Ils precisent ce que l'on attend, sur quel aspect va porter notre jugement.
 La liste des criteres pourrait etre grande, c'est à l'équipe de choisir ce qui est important pour elle, ce qu'elle attend plus precisemment comme prise de conscience, comme responsabilisation, comme amelioration.
 
 
@@ -75,15 +73,33 @@ Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
 
 Que vais-je observer ? Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ? Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes, par exemple ). Concretement que vais-je obeserver qui me montrera qu'il y a des iniatitives chez ce groupe de femmes ?
 
+Une coherence est indispensable entre les objectifs, les strategies et les criteres d'evaluation
+
+### Champ d'investigation et d'étude
+La memetique est une approche transdisciplinaire qui prend le parti d'etendre le vivant au-delà du strict règne biologique. Celà signifie que le mème etend la notion de "vivant" à tout ce qui constitue la sphere d'activité humaine, notamment les techniques et les idées.
 
 
-Une coherence est indispensable entre les objectifs, les strategies et les criteres d'evaluation.
+
+
 
 ### Outils d'evaluation
 
 Ils permettent le recueil des données.
 Attention, il ne faut pas les confondre avec les outils pédagogiques.
 Il est preferable de construire ses propres outils car ils seront davantage adaptes aux indicateurs precis qui ont ete choisis pour ce projet et qui correspondent aux atenters de l'equipe.
+
+### Exemple - le Microblog
+
+Comme son nom l'indique, il s'agit d'un derivé concis du blog web ou d'un web social. Cette idée a été developpé aux Etats-Unis en 2006. Le Microblog permet des publications beaucoup plus courtes que dans les blogs classiques
+L'objectif des Microblog est de diffuser plus fréquemment des informations en se limetant ; a du contenu utile, à mi-chemin entre messageries instantanée et blogs.
+Comme les blogs, ils autorisent un archivage web ; et comme les messagerie instantanée ( messenger ) ils permettent la diffusion en temps reel des informations jugées pertinentes par leurs editeurs.
+
+### Les services de microblogage
+
+Twitter est un service de microblogage le plus connu en Occident avec 241 millions d'utilisateurs en 2013.
+Evidemment, nous avons d'autres services tels que Identica.ca, Hello, Jaiku ( qui ont été racheté par Google Inc en 2007),Soup, Tumblr, Yammer,Sina Weibo, Tencent Weibo ( 623 millions d'utilisateurs ).
+Facebook a developpé son propre service de microblogage.
+
 
 ### Objectif
 
@@ -102,7 +118,7 @@ Par exemple, ameliorer la communication entre jeunes et adultes de la communaut�
 
 ## Modelisation
 
-Modeliser l'integrité d'un réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
+Modeliser l'integrité des réseaux sociaux avec tous les variables à tenir en compte est impossible car il demanderait une puissance de calcul en dehors des capacités de la pluspartie des ordinateurs.
 Pour cette raison le modèle est constitué d'une façon simplifiée, contient un réseau restraint avec un calcul maximale sur un groupe de 500-700 personnes. Les amitiés sont réciproques, du coup il n'existe pas le concept de "follow": s'il y a une amitié entre A et B, les informations voyagent dans les deux sens.
 
 De plus, chaque liaison est marquée par un poids qui peut varier de 0 à 1 et indique la proximité des deux individus, c'est à dire la probabilité et la fréquence des transitions des mèmes entre eux. Pour ce qui concerne les graphes on a choisir de raprésenter par un trait gris seulement les liaison les plus fortes afin de maintenir la propreté et facilité d'analyse.
@@ -150,11 +166,13 @@ Le mème est manipulé comme un "attribute" des nodes qui ont ou pas le mème. L
 De plus, on a ajouté l'attribute "degout" qui détermine *a priori* des gens qui n'aimerons pas le mème et donc ne le retiendrons jamais.
 Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème et qui sont peut être en train de le partager, de cette façon quelq'un qui a déjà vu/imité le mème tendra avec le temps a ne plus s'identifier avec le groupe des gens ayant le mème.
 
+Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a choisi de marquer en rouge les edges ou il y a un passage entre deux nodes. Cette fonction permet en plus de visualiser grossièrement la popularité d'un mème car beaucoup ou pas partagé.
+
 ### Finalisation
 
 [Code relatif](code/manager.md)
 
-blah blah
+Composer les deux "modules" du code a été relativement facile surtout car les deux marchaient déjà enseble dans la phase de production. Globalement cela a permis de visualiser avec les graphes même en construisant des animations les données élaborées par le module 'mèmes' lequel s'appuyait bien sur la librairie NetworkX.
 
 ## Analyse
 
@@ -173,7 +191,7 @@ Voici nos résultats:
 
 Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations.
 
-  ♠ | 50 | 100 | 200 | 400
+♠| 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 10% | 20% | 50% | 65%
 0.3 | 5% | 10% | 30% | 45%
@@ -182,7 +200,7 @@ Ci dessous le tableau de probabilité révélant si le même a persisité plus d
 Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion.
 C'est à dire que 70% de la population du network on visionné le même.
 
-♣  | 50 | 100 | 200 | 400
+♣| 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 15% | 25% | 40% | 55%
 0.3 | 5% | 15% | 35% | 45%
@@ -191,7 +209,7 @@ C'est à dire que 70% de la population du network on visionné le même.
 Ci dessous, la probabilité qu'un même revienne à son expéditeur.
 C'est a dire qu'au bout d'au moins trois générations le même ait fait une boucle d'expéditeur à expéditeur.
 
-  ♥ | 50 | 100 | 200 | 400
+♥| 50 | 100 | 200 | 400
 -------| ---| ----| ----| ---
 0.2 | 25% | 65% | 90% | 98%
 0.3 | 15% | 45% | 75% | 95%
@@ -231,7 +249,6 @@ Enfin voici les critères de réussite du même:
 
 ## Conclusion
 
-
 Les 3 hypotheses :
 1) Différents réseaux sociaux ont des vitesses de diffusion différentes.
 
@@ -247,3 +264,4 @@ Les 3 hypotheses :
 
     Lorsque le choix de l'utilisateur est mis en jeu son partage est plus important. Mais si le design du choix est mauvais l'utilisateur aura tendance a l'ignoré.
 
+**[Bibliographie](bibl.md)**
