@@ -232,8 +232,6 @@ résonance constructive entre le mèmes de la publicité et des individus.
 
 #### Études antropologiques et sociologiques
 
-\
-
 Les champs d’étude des mèmes se concentrent dans le secteur de la
 sociologie qu’on définis “étude scientifique des sociétés humaines et
 des faits sociaux” et “étude des groupes humains qui exercent un métier
@@ -256,8 +254,6 @@ des “allèles” mémétiques dans les cultures et dans l’histoire.
 
 #### Divertissement
 
-\
-
 Chaque entité du champ sémantique du divertissement, dans ses aspect
 sociaux d’amusement et de distraction, dépend directement des mèmes car
 ceux-ci ont besoin d’être partagés pour survivre. Cette affirmation est
@@ -270,8 +266,6 @@ part. [@IL] Dans l’ensemble la mot énonce une activité qui procure
 plaisir plaisir et qui tient l’âme loin des préoccupations.
 
 #### Politique
-
-\
 
 La politique est l’ensemble des options prises collectivement ou
 individuellement par les gouvernants d’un État dans quelque domaine que
@@ -289,8 +283,6 @@ figure représentant une majorité du peuple, ils doivent partagés les
 idéaux voir les mèmes avec la majeure partie.
 
 #### Publicité
-
-\
 
 La publicité se manifeste comme une activité ayant pour but de faire
 connaître une marque, d’inciter le public à acheter un produit, à
