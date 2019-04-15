@@ -166,7 +166,7 @@ Enfin, l'implémentation de networkx a été un grand plus pour le projet car il
 
 Le mème est manipulé comme un "attribute" des nodes qui ont, ou pas, le mème. Le cas positif ouvre la possibilité d'envoyer le mème aux individus avec laquelle il a une liaison selon la loi de probabilité définie sur les edges (càd les liaisons).
 
-![Animation modèle](assets/gifs/attributes.gif)
+![Animation modèle](assets/gifs/attribute.gif)
 
 De plus, nous avons ajouté l'attribute "dégoût" qui détermine *a priori* des gens qui n'aimerons pas le mème et donc ne le retiendrons jamais.
 Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème et qui sont peut être en train de le partager. De cette façon quelqu'un qui a déjà vu/imité le mème tendra avec le temps à ne plus s'identifier avec le groupe des gens ayant le mème.
