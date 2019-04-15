@@ -60,6 +60,8 @@ populaire), ou d’un objet d’une importance capitale (une langue, une
 éthique). Le mème a une durée qui peut être très variable de quelques
 mois à plusieurs millénaires.
 
+![Animation modèle](assets/imgs/drift.png)
+
 Selon cette hypothèse toute culture peut être décomposée en ces sous
 unités transmissibles entre les membres. En fait tous les éléments
 constitutifs de notre culture sont des mèmes. Une chanson, par exemple,
@@ -67,10 +69,14 @@ est un mème. Si je chante une chanson, je serais entendu par quelqu’un,
 et la chanson que j’ai chantée sera dupliquée dans un nouveau cerveau,
 et ainsi de suite. L’imitation permet la réplication.
 
+![Animation modèle](assets/imgs/migration.png)
+
 La réplication est donc l’essence du même, une idée qui ne se réplique
 plus, n’a plus cours, et donc « meure». Pour qu’un mème subsiste il faut
 donc qu’il induise chez « l’hôte » un comportement susceptible d’être
 imité, pour que celui-ci le propage à d’autres.
+
+![Animation modèle](assets/imgs/selection.png)
 
 Selon la théorie de Dawkins, si le gène est le support de l’information
 génétique, le même est celui de la culture. Ainsi donc, les mèmes
