@@ -27,7 +27,6 @@ Dans le cas du mème, il existe plusieurs type de documents. Le document primair
 
 ### Travail preliminaire
 
-
 Le mème est un objet fascinant dont on semble connaitre le
 fonctionnement, bien que celui demeure néanmoins difficile a reproduire
 « artificiellement » car imprévisible. Par ailleurs, aux vu des enjeux
