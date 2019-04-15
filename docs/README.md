@@ -261,4 +261,4 @@ Vrai et faux. En effet si le même débute d'un gros compte il aura beaucoup plu
 
 Lorsque le choix de l'utilisateur est mis en jeu son partage est plus important. Mais si le design du choix est mauvais l'utilisateur aura tendance a l'ignoré.
 
-**[Bibliographie](bibl.md)**
+> **[Bibliographie](bibl.md)**
