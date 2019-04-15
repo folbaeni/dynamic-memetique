@@ -11,7 +11,7 @@
 > évoluent de manière biologique on arrive à un modèle cohérent sans
 > avoir besoins d’ajouter pléthore de nouvelles notions. D’autant plus
 > que la mémétique se base sur des modèles très solides évolution
-> darwinienne, entre autres. [@claidiere:tel-00431055] Aussi ayant
+> darwinienne, entre autres. Aussi ayant
 > remarqué la récurrence de même étapes dans l’évolution de plusieurs
 > mèmes (internet), j’ai été attiré par la capacité à expliquer à l’aide
 > de règle simple les schémas de variation et de sélection de ces
@@ -24,7 +24,7 @@ théorie évolutionniste étendue
 
 Le mème est l’unité de hérédité culturelle. Il s’agit d’un concept
 abstrait, impossible à manipuler, il est possible que d’en analyser les
-principes de fonctionnement.[@definition] Il est constitué par le
+principes de fonctionnement. Il est constitué par le
 réplicateur, une information codifiée qui produit copies exactes de soi
 même avec des occasionnelles copies incorrectes ou “mutations”. Les
 réplicateurs mieux adaptés à faire des copies de soi même deviennent
@@ -36,7 +36,7 @@ et les différents variantes pourront être en competition entre elles. La
 compétition se déroule sur le plan de la phénotypique, c’est à dire sur
 le comportement général d’un mème dans la société. Le destin d’un mème
 dépend de sa transmission parmi les individus et les groupes ethniques.
-[@gene] Avec le temps, les mèmes augmentent ou diminuent de fréquence
+ Avec le temps, les mèmes augmentent ou diminuent de fréquence
 dans le pool mémétique selon des caractères phénotypiques que les
 représentent. De plus, les mèmes coopérants ont une probabilité majeure
 d’émerger.
@@ -47,7 +47,7 @@ longtemps.
 
 Exemple: le jeu du passe-mot avec une technique plus avancée, puis avec
 un dessin (2 types d’information, analogique ou numérique/digitale)
-[@dio]
+
 
 Un “mémeplexe” est un complexe de mèmes qui, même s’ils ne sont pas
 nécessairement capables de survivre tous seuls, sont capables de
@@ -81,7 +81,7 @@ imité, pour que celui-ci le propage à d’autres.
 Selon la théorie de Dawkins, si le gène est le support de l’information
 génétique, le même est celui de la culture. Ainsi donc, les mèmes
 évoluent de la selon des lois analogue à celles qui régissent
-l’évolution des gènes. [@dion:hal-00765151]
+l’évolution des gènes.
 
 Ces lois sont :
 
@@ -108,7 +108,7 @@ leur support ? En vérité il n’est pas aisé de dégager un support
 privilégié, comme il serait difficile d’en dégager un pour la culture.
 Néanmoins il est certain que les mèmes se véhiculent par tous les moyens
 de communications, notamment inernet, d’où le terme « Internet
-memes ».[@chronique]
+memes ».
 
 ### Méthodes d’obtentions
 
@@ -119,8 +119,8 @@ Il faut analyser les deux phases: la création et la diffusion. La
 création d’un mème est la conséquence de la mutation d’un mème déjà
 existant. Ce mème peut se manifester dans la phénotypique avec la
 variation de la façon de prononcer une lettre ou un mot, un tic, une
-expression, la répétition d’une mot, l’acquis d’une nouvelle habitude.
-[@origine] Le changement d’un individu ou d’une société par un seul mème
+expression, la répétition d’une mot, l’acquis d’une nouvelle habitude. 
+Le changement d’un individu ou d’une société par un seul mème
 est minimal et invisible, il faut que le pool mémétique change d’un
 0,02% afin que la différence soit visible (l’utilisation fréquente d’un
 mot par un individu). Des phénomènes plus grands, comme un mouvement
@@ -148,12 +148,12 @@ très courte mais une résonance globale, il suffit de penser à la chanson
 
 Le meme a été théorisé par Richard Dawkins, biologiste, éthologiste et
 théoricien de l’évolution, dans son essai  “The Selfish Gene” (Le Gène
-égoïste). [@gene]
+égoïste).
 
 Le terme a pour origine les mots « gène » et « mimesis ». En effet selon
 R. Dawkins les cultures évoluent selon des lois analogues aux lois de
 l’évolution de Darwin et Wallace, qui exerce une pression sur les gènes.
-Les principes de variations et de sélection. [@larousse]
+Les principes de variations et de sélection.
 
 Le même et la théorie du mème (mémétique) s’inscrivent dans le
 prolongement de la théorie de l’évolution a des objets non biologique,
@@ -186,11 +186,11 @@ ne s’agit pas d’un terme désignant un objet précis, mais d’un concept
 très vaste comme on a pu l’évoquer plus tôt. On pourrait néanmoins se
 pencher sur un cas particulier. Les « mèmes internet » qui nous touchent
 tous les jours sur les réseaux sociaux de l’internet, représentent une
-manne financière importante quoi que difficile à exploiter.[@lorenz] En
+manne financière importante quoi que difficile à exploiter. En
 effet sur internet les mèmes populaires ont une durée de vie très
 faible, ainsi il serait difficile d’envisager une vente rentable de
 produit dérivée sur une durée de seulement quelques semaines. S’ajoute à
-cela le caractère imprévisible de la popularité des mèmes.[@reuter]
+cela le caractère imprévisible de la popularité des mèmes.
 
 ### Les diverses utilisations
 
@@ -219,7 +219,7 @@ phénomène peut avoir des résultats négatifs comme dans l’affaire italien
 où le parti “Lega” a partagé les mèmes “défectueux” disant que les
 vaccins provoquent l’autisme. L’utilisation médiatique de ce mème a eu
 une résonance énorme dans la société, qui maintenant possède ce mème,
-voir cette idée fausse. [@imitation]
+voir cette idée fausse. 
 
 Enfin, la compréhension des mèmes offre une vaste capacité publicitaire,
 car plus une publicité utilise les mèmes actuellement très diffus, plus
@@ -246,7 +246,7 @@ En considérant le métier de Richard Dawkins, introducteur du terme mème,
 on en déduit l’application dans le secteur de l’anthropologie
 évolutionniste. Il est définis comme “l’étude de l’homme et des groupes
 humains” ou comme la “théorie philosophique qui met l’homme au centre de
-ses préoccupations”. [@gene] Puis on observe son spécialisation sur
+ses préoccupations”. Puis on observe son spécialisation sur
 l’évolutionnisme qui considère que toute culture est le résultat d’un
 processus constant d’évolution. Cela nous souligne l’application du
 concept des mèmes dans l’analyse du processus de passage et diffusion
@@ -293,7 +293,7 @@ un produit, un service, etc. Dans ce domaine il s’applique le même
 principe que pour la politique: il faut capturer le gents et cela est
 possible seulement grâce à la correspondance dés mèmes car dans
 l’histoire ancienne la reconnaissance tribale arrivait par la
-comparaison des mèmes. [@dang:hal-00576540] S’ils étaient suffisamment
+comparaison des mèmes. S’ils étaient suffisamment
 similaires, ça parait évidant d’être du même groupe sociale, c’est le
 principe que permet aujourd’hui à des italiens de se reconnaitre entre
 eux dans et hors de leur pais natal. Enfin, la publicité veut produire

@@ -62,12 +62,10 @@ dans tout centre urbain, surtout dans les métropoles.
 
 #### Pool et identité mèmetique
 
-\
-
 Il est possible d’identifier différents niveaux de pools mèmétiques
 parce que déjà un individu est considéré comme un pool. Par contre un
 pool mèmétique est aussi un groupe de gens peu ou beaucoup entendu,
-comme une bande, un centre urbain, une ethnie. [@imitation]
+comme une bande, un centre urbain, une ethnie.
 
 En observant deux individus ou deux groupes on peut en analyser les
 similitudes mèmétiques en trouvant des mèmes analogues et d’autres
@@ -76,8 +74,6 @@ peut affirmer qu’une forte affinité entre les mèmes de deux individus
 est conséquence d’uneappartenance au même groupe culturel.
 
 #### Hiérarchie des territoires et interactions
-
-\
 
 Bien qu’on ne puisse pas établir un lieu physique aux mèmes, on en peut
 analyser la concentration par rapport aux interactions. Aujourd’hui les
@@ -95,8 +91,6 @@ rapide que dans les lieux isolées.
 
 #### Supports, technologies et déplacement humain
 
-\
-
 ***Globalisation***: La globalisation a marqué un changement radical
 dans le déplacement et diffusion des mèmes car ce phénomène a abondement
 centralisé les mèmes en réduisant note vilement du quantité une grand
@@ -107,7 +101,7 @@ l’identité de la Coca Cola et les éléments culturels en arrière plan.
 ***Réseaux sociaux***: Les réseaux sociaux sont le plus grand et plus
 vite bouleversement dans la transmission des mèmes. Ils ont permis un
 échange instantané entre les gens sans limite de distance en augmentant
-le rythme des échanges d’un facteur incalculable. [@gach:tel-01037937]
+le rythme des échanges d’un facteur incalculable.
 De plus, les réseaux sociaux ont provoqué la formation d’une série des
 mèmes qui connaissent une distribution presque globale mais avec une vie
 très courte, paradoxalement ce manifestent sous la forme des memes
@@ -119,7 +113,7 @@ un miroir des habitudes et façons de faire de ce lieux. Les mèmes
 restent “inactif” dans les pages du livre, mais par exemple si quelqu’un
 lit un vieux livre abandonné, y trouve une expression dépassée et
 commence à la répéter, il fait “revivre” le mème en le disposant à une
-possible nouvelle diffusion. [@life]
+possible nouvelle diffusion.
 
 ***Musique***: La musique peut être rapprochée du livre parce que elle
 est directement affecté d’une époque et d’un lieux bien définis, mais la
