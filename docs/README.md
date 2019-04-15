@@ -178,6 +178,8 @@ Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème 
 
 Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a choisi de marquer en rouge les edges ou il y a un passage entre deux nodes. Cette fonction permet en plus de visualiser grossièrement la popularité d'un mème car beaucoup ou pas partagé.
 
+![Animation modèle](assets/gifs/50_03.gif)
+
 ### Finalisation
 
 [Code relatif](code/manager.md)
@@ -185,6 +187,8 @@ Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a cho
 Composer les deux "modules" du code a été relativement facile surtout car les deux marchaient déjà enseble dans la phase de production. Globalement cela a permis de visualiser avec les graphes même en construisant des animations les données élaborées par le module 'mèmes' lequel s'appuyait bien sur la librairie NetworkX.
 
 ## Analyse
+
+![Animation modèle](assets/gifs/400_02.gif)
 
 Tableau statistique:
 
