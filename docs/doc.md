@@ -217,7 +217,7 @@ phénomène peut avoir des résultats négatifs comme dans l’affaire italien
 où le parti “Lega” a partagé les mèmes “défectueux” disant que les
 vaccins provoquent l’autisme. L’utilisation médiatique de ce mème a eu
 une résonance énorme dans la société, qui maintenant possède ce mème,
-voir cette idée fausse. 
+voir cette idée fausse.
 
 Enfin, la compréhension des mèmes offre une vaste capacité publicitaire,
 car plus une publicité utilise les mèmes actuellement très diffus, plus
