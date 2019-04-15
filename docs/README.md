@@ -142,6 +142,8 @@ La partie de code a été divisée en trois grandes problématiques, ce qui corr
 * Insertion d'un mème dans le network et donner des lois de diffusions
 * Assemblage des parties avec une facilité de changer les variables
 
+![Animation modèle](assets/gifs/edges.gif)
+
 Même si nous n'avons pas utilisé Jupyter Notebook pour coder et rédiger notre projet, nous avons appuyé le code sur l'environnement Anaconda.
 Par conséquent, nous avons utilisés les librairies de numpy, matplotlib (en particulièr pyplot et animaton) et seaborn.
 
@@ -164,8 +166,12 @@ Enfin, l'implémentation de networkx a été un grand plus pour le projet car il
 
 Le mème est manipulé comme un "attribute" des nodes qui ont, ou pas, le mème. Le cas positif ouvre la possibilité d'envoyer le mème aux individus avec laquelle il a une liaison selon la loi de probabilité définie sur les edges (càd les liaisons).
 
+![Animation modèle](assets/gifs/attributes.gif)
+
 De plus, nous avons ajouté l'attribute "dégoût" qui détermine *a priori* des gens qui n'aimerons pas le mème et donc ne le retiendrons jamais.
 Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème et qui sont peut être en train de le partager. De cette façon quelqu'un qui a déjà vu/imité le mème tendra avec le temps à ne plus s'identifier avec le groupe des gens ayant le mème.
+
+![Animation modèle](assets/gifs/diffusion.gif)
 
 Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a choisi de marquer en rouge les edges ou il y a un passage entre deux nodes. Cette fonction permet en plus de visualiser grossièrement la popularité d'un mème car beaucoup ou pas partagé.
 
@@ -233,6 +239,9 @@ Cela fonctionne comme les groupes sur les vrais réseaux sociaux ou des liens fo
 Dans ce cas de figure le même persiste dans ces groupes et a du mal a en sortir. Il tourne en cercle fermé.
 Enfin certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
 Et les simulations avec une rétissence de plus 0.5 etait inexploitable car le même ne voyageais pas du tout.
+
+![Animation modèle](assets/gifs/200_02.gif)
+> Représentation d'un mème dans un network avec 200 personnes.
 
 Enfin voici les critères de réussite du même:
 
