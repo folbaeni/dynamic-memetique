@@ -69,11 +69,15 @@ Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
 
 ### Question à se poser
 
-.Que vais-je observer ?    .Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?     . Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes ; par exemple )  . Concretement, quelles observations me montrera les iniatitives chez ce groupe de femmes ?
+* Que vais-je observer ?
+* Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?
+* Comment recueillir l'expression des signes de difficulté à suivre un traitement ?
+* Concretement, quelles observations me montrera les iniatitives chez ce groupe de femmes ?
 
 Une cohérence est indispensable entre les objectifs, les strategies et les criteres d'evaluations.
 
 #### Champ d'investigation et d'étude
+
 La memetique est une approche transdisciplinaire qui prend le parti d'etendre le vivant au-delà du strict règne biologique. Celà signifie que le mème etend la notion de "vivant" à tout ce qui constitue la sphere d'activité humaine, notamment les techniques et les idées.
 
 ### Outils d'evaluations
@@ -102,13 +106,18 @@ Facebook a developpé son propre service de microblogage.
 ### Exemples d'objectifs
 
 Par exemple, ameliorer la communication entre jeunes et adultes de la communauté éducative du lycée. Les tendances des élèves aux lycées prennent souvent le dessus.C'est une mode qui se diffuse, les tendances des jeunes.
-    Les critères dans ce cas : Par exemple, diminuer cette tendance de l'insolence" envers les adultes ou les professeurs.
-    Indicateurs de cette tendance : Nombre d'avertisement pour l'insolence avant et après l'action, l'acte.
-    Outils utilisées : grille de suivi par exemple. 
+
+**Les critères dans ce cas** : Par exemple, diminuer cette tendance de l'insolence" envers les adultes ou les professeurs.
+
+**Indicateurs de cette tendance** : Nombre d'avertisement pour l'insolence avant et après l'action, l'acte.
+
+**Outils utilisées** : grille de suivi par exemple. 
     
-    La tendance chez les jeunes à conduire sans casque, l'utilisation de la moto au lieu de la voiture.
-    Objectifs dans ce cas là : la capacité de prendre une decision adaptée au risque.
-    Outils d'evaluations : Par exemple, une echelle d'attitude sur la personne concernée.
+La tendance chez les jeunes à conduire sans casque, l'utilisation de la moto au lieu de la voiture.
+
+**Objectifs dans ce cas là** : la capacité de prendre une decision adaptée au risque.
+
+**Outils d'evaluations** : Par exemple, une echelle d'attitude sur la personne concernée.
 
 ## Modélisation
 
@@ -169,8 +178,6 @@ Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a cho
 Composer les deux "modules" du code a été relativement facile surtout car les deux marchaient déjà enseble dans la phase de production. Globalement cela a permis de visualiser avec les graphes même en construisant des animations les données élaborées par le module 'mèmes' lequel s'appuyait bien sur la librairie NetworkX.
 
 ## Analyse
-
-
 
 Tableau statistique:
 
