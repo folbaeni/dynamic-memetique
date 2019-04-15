@@ -12,15 +12,11 @@ nos dossiers personnels en se rapprochant de l’argument, puis nous avons
 parcouru le sujet de la mémétique selon la méthode de l’OLMDP pour en
 comprendre l’ensemble, et conclure sur la spécificité des réseaux.
 
-//Definition meme
-
 ### Recherche bibliographique
 
 * [Documentation sur le mème](doc.md)
 * [Les lieux du mème](lieux.md)
 * [Métiers et disciplines liées au mème](metiers.md)
-
-//blah blab ,ce qui a déjà été fait sur le sujet,Dans quelles conditions,les points forts et faibles des travaux existants
 
 Dans toutes les disciplines, la recherche documentaire, bibliographique n'est pas chose simple. Les sources d'information sont nombreuses, multiples. En dresser la liste est quasiment impossible. De plus, l'information devient tres vite inutilisable en fonction du temps. Elle se perime rapidement.
 C'est pour celà qu'il faut avoir un interet du sujet ( les mèmes ). Dans une demarche documentaire, nous devons d'abord definir le champ de recherche, c'est à dire le domaine intellectuel dans lequel elle  va s'exercer. Par exemple le meme va t -il se diffuser que dans un domaine en particulier, ou bien dans plusieurs domaines mais en meme temps ? Il faut en tenir compte dans notre recherche.
@@ -29,9 +25,9 @@ Dans le cas du mème, il existe plusieurs type de documents. Le document primair
 
 * [Études dans ce champ](dejafait.md)
 
-## Travail preliminaire
+### Travail preliminaire
 
-// depuis nos études bla bla
+
 Le mème est un objet fascinant dont on semble connaitre le
 fonctionnement, bien que celui demeure néanmoins difficile a reproduire
 « artificiellement » car imprévisible. Par ailleurs, aux vu des enjeux
@@ -75,15 +71,29 @@ Pour un même critere, il est possible de retenir un ou plusieurs indicateurs.
 
 .Que vais-je observer ?    .Receuillir cette information me permettra t- elle de dire qu'il y aura une distribution de telle chose ou telle chose ?     . Comment recueillir l'expression des signes de difficulté à suivre un traitement ? ( en lien avec les mèmes ; par exemple )  . Concretement, quelles observations me montrera les iniatitives chez ce groupe de femmes ?
 
-
-
 Une cohérence est indispensable entre les objectifs, les strategies et les criteres d'evaluations.
+
+#### Champ d'investigation et d'étude
+La memetique est une approche transdisciplinaire qui prend le parti d'etendre le vivant au-delà du strict règne biologique. Celà signifie que le mème etend la notion de "vivant" à tout ce qui constitue la sphere d'activité humaine, notamment les techniques et les idées.
 
 ### Outils d'evaluations
 
 Ils permettent le recueil des données.
 Attention, il ne faut pas les confondre avec les outils pédagogiques.
 Il est préferable de construire ses propres outils car ils seront davantage adaptés aux indicateurs précis qui ont été choisis pour ce projet et qui correspondent aux attendes de l'équipe.
+
+### Exemple - le Microblog
+
+Comme son nom l'indique, il s'agit d'un derivé concis du blog web ou d'un web social. Cette idée a été developpé aux Etats-Unis en 2006. Le Microblog permet des publications beaucoup plus courtes que dans les blogs classiques
+L'objectif des Microblog est de diffuser plus fréquemment des informations en se limetant ; a du contenu utile, à mi-chemin entre messageries instantanée et blogs.
+Comme les blogs, ils autorisent un archivage web ; et comme les messagerie instantanée ( messenger ) ils permettent la diffusion en temps reel des informations jugées pertinentes par leurs editeurs.
+
+### Les services de microblogage
+
+Twitter est un service de microblogage le plus connu en Occident avec 241 millions d'utilisateurs en 2013.
+Evidemment, nous avons d'autres services tels que Identica.ca, Hello, Jaiku ( qui ont été racheté par Google Inc en 2007),Soup, Tumblr, Yammer,Sina Weibo, Tencent Weibo ( 623 millions d'utilisateurs ).
+Facebook a developpé son propre service de microblogage.
+
 
 ### Objectif
 
@@ -150,49 +160,102 @@ Le mème est manipulé comme un "attribute" des nodes qui ont, ou pas, le mème.
 De plus, nous avons ajouté l'attribute "dégoût" qui détermine *a priori* des gens qui n'aimerons pas le mème et donc ne le retiendrons jamais.
 Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème et qui sont peut être en train de le partager. De cette façon quelqu'un qui a déjà vu/imité le mème tendra avec le temps à ne plus s'identifier avec le groupe des gens ayant le mème.
 
+Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a choisi de marquer en rouge les edges ou il y a un passage entre deux nodes. Cette fonction permet en plus de visualiser grossièrement la popularité d'un mème car beaucoup ou pas partagé.
+
 ### Finalisation
 
 [Code relatif](code/manager.md)
 
-blah blah
+Composer les deux "modules" du code a été relativement facile surtout car les deux marchaient déjà enseble dans la phase de production. Globalement cela a permis de visualiser avec les graphes même en construisant des animations les données élaborées par le module 'mèmes' lequel s'appuyait bien sur la librairie NetworkX.
 
 ## Analyse
 
 
 
 Tableau statistique:
-20 simulations par cellule.
+
+A l'aide de compteurs nous avons calculé les probabilté de présence du même.
+Nous avons utilisé 12 cas de figures différents en regardant 4 variables à chaque fois.
+La première ligne correspond aux nombres d'utilisateurs du network.
+La première colonne correspond à la probabilité de rétissence du même.
+Enfin pour des resultats plus précis nous avons fait 20 simulations par cas pour que l'échantionnage de probabilité soit suffisant.
 
 
-On a caculé la probabilité que le même survive plus de 20 générations
+Voici nos résultats:
 
-:spades:| 50 | 100 | 200 | 400
+Ci dessous le tableau de probabilité révélant si le même a persisité plus de 20 générations.
+
+♠| 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 10% | 20% | 50% | 65%
 0.3 | 5% | 10% | 30% | 45%
 0.5 | 0% | 5% | 15% | 30%
+ 
+Ci dessous on a calculé la probabilité que le même atteigne 70% de diffusion.
+C'est à dire que 70% de la population du network on visionné le même.
 
-On a calculé la probabilité que le même atteigne 70% de diffusion
-
-:hearts:| 50 | 100 | 200 | 400
+♣| 50 | 100 | 200 | 400
 --------| ---| ----| ----| ---
 0.2 | 15% | 25% | 40% | 55%
 0.3 | 5% | 15% | 35% | 45%
 0.5 | 0% | 5% | 15% | 25%
 
-On a calculé la probabilité qu'un même revienne à son expéditeur
+Ci dessous, la probabilité qu'un même revienne à son expéditeur.
+C'est a dire qu'au bout d'au moins trois générations le même ait fait une boucle d'expéditeur à expéditeur.
 
-:clubs:| 50 | 100 | 200 | 400
+♥| 50 | 100 | 200 | 400
 -------| ---| ----| ----| ---
 0.2 | 25% | 65% | 90% | 98%
 0.3 | 15% | 45% | 75% | 95%
 0.5 | 5% | 35% | 65% | 80%
 
-:diamonds:
+Ci dessous on a calculé le nombre de génération ou le même a atteint 40%  diffusion.
+On a, toujours a l'aide de compteur trouvé la vitesse de diffusion du même.
+Enfin on a pris la moyenne des 20 essais.
+Si la cellule contient N/A c'est que le même n'a pas atteint suffisament de fois 50% pour qu'on juge de sa vitesse de diffusion.  
+
+   ♦ | 50 | 100 | 200 | 400 
+-----------| ---| ----| ----| ---
+0.2 | 7.23 | 9.12 | 9.45 | 8.36
+0.3 | 8.76 | 11.13 | 12.14 | 11.85
+0.5 | N/A | 11.89 | 14.39 | 13.45
 
 
+Ces 4 tableaux révèlent plusieurs comportements du réseaux social. 
+En effet la large diffusion est compliqué contrairement a la rapidité de l'information. 
+Un même transmis dans un plus grand network sera plus vu car plus facilement partagé et plus il est partagé plus il survivra longtemps.
+Il se passe excatement l'inverse pour les petits networks.
+Nous avons aussi remarqué pendant nos différentes simulations que des petits groupes se forment sur les grands réseaux. 
+Cela fonctionne comme les groupes sur les vrais réseaux sociaux ou des liens forts se forment entre les utilisateurs.
+Dans ce cas de figure le même persiste dans ces groupes et a du mal a en sortir. Il tourne en cercle fermé.
+Enfin certaine de nos simulation (avec une probabilté de rétissence de moins de 0.15) n'avais pas de fin et l'intégralité du network avait eu acces au même.
+Et les simulations avec une rétissence de plus 0.5 etait inexploitable car le même ne voyageais pas du tout.
+
+Enfin voici les critères de réussite du même:
+
+* -"Temps de compréhension" : Image + 1 ligne de texte a une diffusion bien supérieur à un pavé de texte.
+* -"Une accroche" : si un même plait c'est qu'il est visible. L'utilisation d'hashtags, d'une image ou des phrases accrocheuses augmente cette visibilité.
+* -"Les questions rétorique" : elles permettent de faire participé l'utilisateur, donc le même sera plus facilement partagé.
+* -"Private Joke" : un même très spécifique peut déplaire. En effet on ne comprendra pas le même d'origine inconnue. Exemple: une personne qui n'a jamais vu star wars ne comprendra pas le "que la force soit avec toi". Par contre ce même peut devenir très populaire pour la population ayant connaissance du support mais aura tendence à circuler en cercle fermé.
+* -"L'origine" : La personne à lancer le même est très importante pour qu'un même réussisse. Une personnalité médiatisé aura un impacte plus direct et important qu'une personne lamda. (par exemple les expressions reprises de personnalitée : le "non mais alo quoi" de Nabilla en 2013).
+* -"La chance" : la diffusion d'un même est chaotique donc on ne peut pas savoir ce qui marchera ou pas. De plus si un autre même surplombe le votre, celui-ci passera inaperçu.
 
 
 ## Conclusion
 
-blah blah
+Les 3 hypotheses :
+1) Différents réseaux sociaux ont des vitesses de diffusion différentes.
+
+    Les réseaux sociaux amis-amis tels que facebook ont une diffusion très lente.
+    En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publications. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
+    Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. Tout provient de son système interne. En effet le système de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chances d'être retweeter sont importants et plus votre même sera visible.  
+
+2) Un même réussit est forcement diffuser par un compte important.
+
+    Vrai et faux. En effet si le même débute d'un gros compte il aura beaucoup plus de chance d'être partager, mais la diffusion d'un même étant chaotique une personne peut lancer un même avec un petit compte. 
+
+3) Un même contenant un choix A et B a plus tendance à être diffuser.
+
+    Lorsque le choix de l'utilisateur est mis en jeu son partage est plus important. Mais si le design du choix est mauvais l'utilisateur aura tendance a l'ignoré.
+
+**[Bibliographie](bibl.md)**
