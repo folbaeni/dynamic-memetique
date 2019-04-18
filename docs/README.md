@@ -178,6 +178,8 @@ Cet attribute s'applique aussi *a posteriori* aux nodes qui detiennent le mème 
 
 Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a choisi de marquer en rouge les edges ou il y a un passage entre deux nodes. Cette fonction permet en plus de visualiser grossièrement la popularité d'un mème car beaucoup ou pas partagé.
 
+![Animation modèle](assets/gifs/50_03.gif)
+
 ### Finalisation
 
 [Code relatif](code/manager.md)
@@ -185,6 +187,8 @@ Enfin, pour suivre graphiquement la diffusion du mème sur le réseaux, on a cho
 Composer les deux "modules" du code a été relativement facile surtout car les deux marchaient déjà enseble dans la phase de production. Globalement cela a permis de visualiser avec les graphes même en construisant des animations les données élaborées par le module 'mèmes' lequel s'appuyait bien sur la librairie NetworkX.
 
 ## Analyse
+
+![Animation modèle](assets/gifs/400_02.gif)
 
 Tableau statistique:
 
@@ -259,17 +263,17 @@ Enfin voici les critères de réussite du même:
 
 Les 3 hypotheses :
 
-1. ***Différents réseaux sociaux ont des vitesses de diffusion différentes.***
+* ***Différents réseaux sociaux ont des vitesses de diffusion différentes.***
 
 Les réseaux sociaux amis-amis tels que facebook ont une diffusion très lente.
 En effet pour facebook tout vos amis ne recoivent pas vos publications, de plus seul vos amis peuvent voir vos publications. Donc le champs de diffusion est très restreint. Le principale avantage de facebook pour la diffusion de même est sa très grande popularité. En effet le nombre d'utilisateur de facebook est bien plus important que twitter qui est son principale concurent.
 Prenons l'exemple de twitter. twitter a une diffusion bien plus rapide que celle de facebook. Tout provient de son système interne. En effet le système de retweet permet une diffusion sur tout tes "follower". plus vous êtès suivit plus vos chances d'être retweeter sont importants et plus votre même sera visible.  
 
-2. ***Un même réussit est forcement diffuser par un compte important.***
+* ***Un même réussit est forcement diffuser par un compte important.***
 
 Vrai et faux. En effet si le même débute d'un gros compte il aura beaucoup plus de chance d'être partager, mais la diffusion d'un même étant chaotique une personne peut lancer un même avec un petit compte. 
 
-3. ***Un même contenant un choix A et B a plus tendance à être diffuser.***
+* ***Un même contenant un choix A et B a plus tendance à être diffuser.***
 
 Lorsque le choix de l'utilisateur est mis en jeu son partage est plus important. Mais si le design du choix est mauvais l'utilisateur aura tendance a l'ignoré.
 
